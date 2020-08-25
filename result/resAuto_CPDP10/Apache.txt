@@ -1,0 +1,110 @@
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 144.09179981872737
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.08633636983602644
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:TD:expected_num, Value: 10
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.7478741496598638)
+time: 3598.2690675258636
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 260.82556225596414
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.03311804271159934
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:TD:expected_num, Value: 7
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.7478741496598638)
+time: 3595.83726811409
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 347.343470751772
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.06127200426454921
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:TD:expected_num, Value: 2
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.7478741496598638)
+time: 3597.9357364177704
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 618.0060908633244
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.04103010137494735
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:TD:expected_num, Value: 11
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.7478741496598638)
+time: 3598.65034532547
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 2.6701283384582046
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.011527339172787933
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:TD:expected_num, Value: 4
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.7478741496598638)
+time: 3597.0512030124664
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 960.0172485777456
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.029563738783551216
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:TD:expected_num, Value: 5
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.7478741496598638)
+time: 3600.654718875885
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 336.07564166902154
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.037359619754605645
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:TD:expected_num, Value: 8
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.7478741496598638)
+time: 3598.082326412201
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 0.010000000000000002
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.001
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:TD:expected_num, Value: 2
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.7478741496598638)
+time: 3597.253134727478
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 666.6057343756428
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.08944414915734442
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:TD:expected_num, Value: 5
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.7478741496598638)
+time: 3602.0459599494934
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 606.0983732959244
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.02023696123626181
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:TD:expected_num, Value: 8
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.7478741496598638)
+time: 3598.877631187439
+--------------------

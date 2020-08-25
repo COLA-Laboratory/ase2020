@@ -1,0 +1,120 @@
+{'adpt': 'FSS_bagging', 'clf': 'Perceptron', 'FSS_ratio': [0.6365309758552387], 'FSS_score_thre': [0.4011611995313726], 'FSS_topn': [0], 'Per_alpha': [0.09689303396861226], 'Per_fit_intercept': [0], 'Per_penalty': [0], 'Per_tol': [0.06823950011823385]}
+-0.6363170275649919
+---------------------
+time: 3600.4559247493744
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [0], 'DTmax_features': [0.927323526735984], 'DTmin_samples_leaf': [14], 'DTmin_samples_split': [10], 'DTsplitter': [0], 'pvalue': [0.09981944128810928]}
+-0.6431177996260329
+---------------------
+time: 7200.839368581772
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [0], 'DTmax_features': [0.8488114631356986], 'DTmin_samples_leaf': [14], 'DTmin_samples_split': [4], 'DTsplitter': [0], 'pvalue': [0.02375427520315515]}
+-0.6421949454128717
+---------------------
+time: 10801.285568714142
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [0], 'DTmax_features': [0.9515977602594721], 'DTmin_samples_leaf': [9], 'DTmin_samples_split': [27], 'DTsplitter': [0], 'pvalue': [0.09115663512570923]}
+-0.6380436093853671
+---------------------
+time: 14401.664140701294
+{'adpt': 'NNfilter', 'clf': 'adaBoost', 'NNmetric': [0], 'NNn_neighbors': [8], 'ada_learning_rate': [6.371922356336499], 'ada_n_estimators': [170]}
+-0.6388227513227512
+---------------------
+time: 18002.0159368515
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.9931872932069274], 'DTmin_samples_leaf': [12], 'DTmin_samples_split': [7], 'DTsplitter': [0], 'pvalue': [0.042809796475188275]}
+-0.6430846251281741
+---------------------
+time: 21602.353662490845
+{'adpt': 'FSS_bagging', 'clf': 'Perceptron', 'FSS_ratio': [0.562361664428739], 'FSS_score_thre': [0.36212958649628735], 'FSS_topn': [0], 'Per_alpha': [0.011513071653544987], 'Per_fit_intercept': [0], 'Per_penalty': [0], 'Per_tol': [0.016270800518251673]}
+-0.6378249592858436
+---------------------
+time: 25202.733446598053
+{'adpt': 'FSS_bagging', 'clf': 'Perceptron', 'FSS_ratio': [0.556363249903208], 'FSS_score_thre': [0.3110074581410906], 'FSS_topn': [0], 'Per_alpha': [0.09536164946971201], 'Per_fit_intercept': [1], 'Per_penalty': [0], 'Per_tol': [0.016742366802720024]}
+-0.6473400084444176
+---------------------
+time: 28803.126964330673
+{'adpt': 'UM', 'clf': 'RF', 'RFcriterion': [0], 'RFmax_features': [0.9166487642429149], 'RFmin_samples_leaf': [18], 'RFmin_samples_split': [13], 'RFn_estimators': [131], 'pvalue': [0.06219991654316291]}
+-0.6298314132336087
+---------------------
+time: 32403.549424409866
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [0], 'DTmax_features': [0.9187697055757393], 'DTmin_samples_leaf': [14], 'DTmin_samples_split': [29], 'DTsplitter': [0], 'pvalue': [0.062120443445186656]}
+-0.6421858978225464
+---------------------
+time: 36003.91952443123
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.9023900451492705], 'DTmin_samples_leaf': [13], 'DTmin_samples_split': [28], 'DTsplitter': [0], 'pvalue': [0.06071742106678581]}
+-0.6367060739489715
+---------------------
+time: 3600.468581676483
+{'adpt': 'PCAmining', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.9222385888500345], 'DTmin_samples_leaf': [9], 'DTmin_samples_split': [37], 'DTsplitter': [0], 'pcaDim': [1]}
+-0.6272543579226733
+---------------------
+time: 7201.13228225708
+{'adpt': 'FSS_bagging', 'clf': 'Perceptron', 'FSS_ratio': [0.21772344939483398], 'FSS_score_thre': [0.44179076000603007], 'FSS_topn': [0], 'Per_alpha': [0.09462817689540065], 'Per_fit_intercept': [0], 'Per_penalty': [0], 'Per_tol': [0.02795212677114312]}
+-0.6441130345617951
+---------------------
+time: 10801.941753149033
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.9993381877153461], 'DTmin_samples_leaf': [14], 'DTmin_samples_split': [23], 'DTsplitter': [0], 'pvalue': [0.041106800946082406]}
+-0.6431177996260329
+---------------------
+time: 14402.68917131424
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [0], 'DTmax_features': [0.9939983855110075], 'DTmin_samples_leaf': [18], 'DTmin_samples_split': [28], 'DTsplitter': [0], 'pvalue': [0.082747022971896]}
+-0.6329091018758671
+---------------------
+time: 18003.180897712708
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.9620759849434001], 'DTmin_samples_leaf': [12], 'DTmin_samples_split': [5], 'DTsplitter': [0], 'pvalue': [0.07296193557119501]}
+-0.6431947041437963
+---------------------
+time: 21603.766695261
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [0], 'DTmax_features': [0.862577898625661], 'DTmin_samples_leaf': [18], 'DTmin_samples_split': [26], 'DTsplitter': [0], 'pvalue': [0.09599194730077541]}
+-0.6331805295856203
+---------------------
+time: 25204.396980524063
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.9421223508796712], 'DTmin_samples_leaf': [14], 'DTmin_samples_split': [22], 'DTsplitter': [0], 'pvalue': [0.02630010434155443]}
+-0.6411182821641834
+---------------------
+time: 28805.04102730751
+{'adpt': 'FSS_bagging', 'clf': 'Perceptron', 'FSS_ratio': [0.6437640872147179], 'FSS_score_thre': [0.6238434238338901], 'FSS_topn': [0], 'Per_alpha': [0.09936994378788044], 'Per_fit_intercept': [0], 'Per_penalty': [0], 'Per_tol': [0.03901343971478598]}
+-0.6427558960130286
+---------------------
+time: 32405.662816762924
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.9996432466378555], 'DTmin_samples_leaf': [14], 'DTmin_samples_split': [14], 'DTsplitter': [0], 'pvalue': [0.02332332948979762]}
+-0.6450750949996984
+---------------------
+time: 36006.53347802162
+{'adpt': 'FSS_bagging', 'clf': 'Perceptron', 'FSS_ratio': [0.5134508673214142], 'FSS_score_thre': [0.5531110112669083], 'FSS_topn': [0], 'Per_alpha': [0.08237587876969144], 'Per_fit_intercept': [0], 'Per_penalty': [0], 'Per_tol': [3.618940267093723e-05]}
+-0.6258821400566983
+---------------------
+time: 39607.295018434525
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.9444088737804521], 'DTmin_samples_leaf': [12], 'DTmin_samples_split': [15], 'DTsplitter': [0], 'pvalue': [0.05517974235324678]}
+-0.6394082875927378
+---------------------
+time: 43208.488874197006
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [0], 'DTmax_features': [0.988998919291684], 'DTmin_samples_leaf': [13], 'DTmin_samples_split': [13], 'DTsplitter': [0], 'pvalue': [0.010339672914891754]}
+-0.6436516074552143
+---------------------
+time: 46809.2619240284
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.9508893992116005], 'DTmin_samples_leaf': [17], 'DTmin_samples_split': [2], 'DTsplitter': [0], 'pvalue': [0.05308786844699114]}
+-0.6329091018758671
+---------------------
+time: 50410.099318265915
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.9758179704043627], 'DTmin_samples_leaf': [14], 'DTmin_samples_split': [27], 'DTsplitter': [0], 'pvalue': [0.08991846537659978]}
+-0.6434736715121538
+---------------------
+time: 54010.69600009918
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.9292560191785824], 'DTmin_samples_leaf': [13], 'DTmin_samples_split': [26], 'DTsplitter': [0], 'pvalue': [0.022169578900622586]}
+-0.6431177996260329
+---------------------
+time: 57611.79069519043
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.8862530617130244], 'DTmin_samples_leaf': [12], 'DTmin_samples_split': [11], 'DTsplitter': [0], 'pvalue': [0.03047832357655337]}
+-0.6430589902889198
+---------------------
+time: 61212.7755048275
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.9981648496295754], 'DTmin_samples_leaf': [14], 'DTmin_samples_split': [10], 'DTsplitter': [0], 'pvalue': [0.05314491301782212]}
+-0.6447192231135774
+---------------------
+time: 64813.58861851692
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.9293361439638553], 'DTmin_samples_leaf': [12], 'DTmin_samples_split': [14], 'DTsplitter': [0], 'pvalue': [0.0508515762175409]}
+-0.6416611375836901
+---------------------
+time: 68414.66578197479
+{'adpt': 'UM', 'clf': 'DT', 'DTcriterion': [0], 'DTmax_features': [0.9975384793464063], 'DTmin_samples_leaf': [14], 'DTmin_samples_split': [6], 'DTsplitter': [0], 'pvalue': [0.05518981014452543]}
+-0.6385321792629229
+---------------------
+time: 72015.70482134819

@@ -1,0 +1,120 @@
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [4.422428841813991], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [6], 'polycoef0': [2.024736363946936], 'polygamma': [23.954705276298284], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 3600.231389760971
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [7.20258973772573], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [5], 'polycoef0': [0.12794760520928605], 'polygamma': [2.461602531566278], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 7200.5498678684235
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [5.1656939447115615], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [6], 'polycoef0': [7.347513854431707], 'polygamma': [23.12235327984215], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 10800.826902866364
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [0.8483788138964625], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [6], 'polycoef0': [6.0324416184148175], 'polygamma': [42.38848435883298], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 14401.087730884552
+{'adpt': 'FeSCH', 'clf': 'NB', 'Fesch_nt': [11], 'Fesch_strategy': [2], 'NBparam': [1], 'calpha': [], 'malpha': [7.1873835051258865], 'norm': []}
+-0.7331207482993196
+---------------------
+time: 18001.38708305359
+{'adpt': 'UM', 'clf': 'NCC', 'NCC_metric': [0], 'NCC_shrink_thre': [3.608172646253962], 'pvalue': [0.015975606396905824]}
+-0.7311968537414966
+---------------------
+time: 21601.70475244522
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [5.487964447067286], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [5], 'polycoef0': [8.832588143046497], 'polygamma': [58.164916318475065], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 25202.000606536865
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [7.475776443530028], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [5], 'polycoef0': [2.553923064936619], 'polygamma': [30.893889087805476], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 28802.395819664
+{'adpt': 'TD', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.9559902568150478], 'DTmin_samples_leaf': [4], 'DTmin_samples_split': [8], 'DTsplitter': [0], 'TD_num': [0], 'TDparam': [0]}
+-0.7336522108843538
+---------------------
+time: 32402.804919958115
+{'adpt': 'NNfilter', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.9872993640847441], 'DTmin_samples_leaf': [16], 'DTmin_samples_split': [33], 'DTsplitter': [0], 'NNmetric': [5], 'NNn_neighbors': [40]}
+-0.739647721320063
+---------------------
+time: 36003.131872177124
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [0.9301877177494521], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [5], 'polycoef0': [0.00032999620783807915], 'polygamma': [55.996113098452824], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 3600.5082926750183
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [4.230955355166817], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [6], 'polycoef0': [0.9394277195252898], 'polygamma': [16.23770816467928], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 7201.075880050659
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [5.615185752687824], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [5], 'polycoef0': [1.4781250857862722], 'polygamma': [24.712477119176345], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 10801.763531684875
+{'adpt': 'FeSCH', 'clf': 'Perceptron', 'Fesch_nt': [12], 'Fesch_strategy': [1], 'Per_alpha': [0.08019086307595885], 'Per_fit_intercept': [1], 'Per_penalty': [0], 'Per_tol': [0.019643636154756807]}
+-0.7385204081632653
+---------------------
+time: 14402.56045460701
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [8.08476423102241], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [5], 'polycoef0': [6.0249079348475245], 'polygamma': [31.49396328124118], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 18003.349422216415
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [7.129441389781688], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [6], 'polycoef0': [1.3586866435466252], 'polygamma': [88.04007545634659], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 21604.23436141014
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [1.796904226468884], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [5], 'polycoef0': [5.577215950383149], 'polygamma': [85.12581568484984], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 3600.208451986313
+{'adpt': 'FSS_bagging', 'clf': 'NB', 'FSS_ratio': [0.10293032034845287], 'FSS_score_thre': [0.6729771658153333], 'FSS_topn': [0], 'NBparam': [2], 'calpha': [8.374301917365388], 'malpha': [], 'norm': [1]}
+-0.7367134353741498
+---------------------
+time: 7200.545089483261
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [9.247668309358515], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [5], 'polycoef0': [5.621058883980163], 'polygamma': [58.05575708376692], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 10800.839529752731
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [2.180049826716692], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [5], 'polycoef0': [0.7215881433900577], 'polygamma': [37.15121585127906], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 14401.042774438858
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [5.232421963685319], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [5], 'polycoef0': [8.46796368496569], 'polygamma': [20.287597728604474], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 18001.344121694565
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [2.16291118971089], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [5], 'polycoef0': [9.296596165678471], 'polygamma': [18.62556988898022], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 21601.627209186554
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [0.7403949357593085], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [6], 'polycoef0': [0.06895921316140008], 'polygamma': [29.53251521568161], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 25201.97616457939
+{'adpt': 'FSS_bagging', 'clf': 'NB', 'FSS_ratio': [0.11368594846581451], 'FSS_score_thre': [0.37910049313208893], 'FSS_topn': [0], 'NBparam': [1], 'calpha': [], 'malpha': [5.335352620289964], 'norm': []}
+-0.7316113945578231
+---------------------
+time: 28802.244498968124
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [8.594724927824133], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [5], 'polycoef0': [7.498992375999593], 'polygamma': [18.338501705603115], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 32402.50250673294
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [5.7958380112666985], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [5], 'polycoef0': [3.6693730452319864], 'polygamma': [56.531912492301686], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 36002.86759543419
+{'adpt': 'FSS_bagging', 'clf': 'SVM', 'C': [1.9803657810112731], 'FSS_ratio': [0.5622261318432675], 'FSS_score_thre': [0.3774301958701036], 'FSS_topn': [0], 'SVCkernel': [1], 'degree': [2], 'polycoef0': [4.648635475163355], 'polygamma': [79.83981070865359], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7324404761904761
+---------------------
+time: 39603.169885635376
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [1.0701311996821374], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [5], 'polycoef0': [4.2592756184803395], 'polygamma': [55.89711607298127], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 43203.77819085121
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [3.5564753023722533], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [6], 'polycoef0': [0.26954443023546965], 'polygamma': [70.96430803539386], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 46804.20764064789
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [2.306664974788267], 'SVCkernel': [1], 'degree': [1], 'pcaDim': [6], 'polycoef0': [2.7974299345610745], 'polygamma': [18.51758346758164], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7529761904761905
+---------------------
+time: 50404.51150083542

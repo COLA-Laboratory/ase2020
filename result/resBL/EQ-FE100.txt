@@ -1,0 +1,120 @@
+{'adpt': 'TD', 'clf': 'PAC', 'PAC_c': [86.26265478706091], 'PAC_fit_intercept': [0], 'PAC_loss': [1], 'PAC_tol': [0.06498318268080115], 'TD_num': [], 'TDparam': [1]}
+-0.605438282647585
+---------------------
+time: 3600.251758337021
+{'adpt': 'PCAmining', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.8487813262300192], 'DTmin_samples_leaf': [8], 'DTmin_samples_split': [16], 'DTsplitter': [0], 'pcaDim': [21]}
+-0.5869767441860465
+---------------------
+time: 7200.5062046051025
+{'adpt': 'PCAmining', 'clf': 'PAC', 'PAC_c': [67.206252687235], 'PAC_fit_intercept': [1], 'PAC_loss': [1], 'PAC_tol': [0.03547781317110438], 'pcaDim': [47]}
+-0.6310793082886107
+---------------------
+time: 10800.730571269989
+{}
+0
+---------------------
+time: 14400.901987075806
+{}
+0
+---------------------
+time: 18001.07177257538
+{'adpt': 'PCAmining', 'clf': 'RNC', 'RNC_weights': [0], 'pcaDim': [54], 'radius': [8214.866641313627]}
+-0.0
+---------------------
+time: 21601.423210144043
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [14.945673096930983], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.07017585763122558], 'pcaDim': [46]}
+-0.7294573643410852
+---------------------
+time: 25201.708817243576
+{'adpt': 'MCWs', 'clf': 'MLP'}
+0
+---------------------
+time: 28801.89852452278
+{'adpt': 'TD', 'clf': 'SVM', 'C': [4.604403308986253], 'SVCkernel': [3], 'TD_num': [0], 'TDparam': [0], 'degree': [], 'polycoef0': [], 'polygamma': [], 'rbfgamma': [6.091055482965294], 'sigcoef0': [], 'siggamma': []}
+-0.698628503279666
+---------------------
+time: 32402.13330078125
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.006427673590589739], 'Per_fit_intercept': [1], 'Per_penalty': [0], 'Per_tol': [0.09584812617753213], 'pcaDim': [2]}
+-0.7050685748360167
+---------------------
+time: 36002.33139371872
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [5.511132475736825], 'SVCkernel': [2], 'degree': [], 'pcaDim': [27], 'polycoef0': [], 'polygamma': [], 'rbfgamma': [], 'sigcoef0': [6.111012862049996], 'siggamma': [60.14483946558559]}
+-0.6554561717352414
+---------------------
+time: 3600.1458127498627
+{'adpt': 'NNfilter', 'clf': 'adaBoost', 'NNmetric': [5], 'NNn_neighbors': [71], 'ada_learning_rate': [1.0006528562007118], 'ada_n_estimators': [71]}
+-0.599035964035964
+---------------------
+time: 7200.342993021011
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.020014636737922354], 'Per_fit_intercept': [0], 'Per_penalty': [1], 'Per_tol': [0.03295765393731694], 'pcaDim': [55]}
+-0.6542039355992844
+---------------------
+time: 10800.544828176498
+{'adpt': 'FSS_bagging', 'clf': 'PAC', 'FSS_ratio': [0.1286723300301248], 'FSS_score_thre': [0.3030152698873124], 'FSS_topn': [1], 'PAC_c': [4.120411888763318], 'PAC_fit_intercept': [0], 'PAC_loss': [1], 'PAC_tol': [0.07247511100759044]}
+-0.6315026833631484
+---------------------
+time: 14400.752711057663
+{'adpt': 'PCAmining', 'clf': 'RNC', 'RNC_weights': [1], 'pcaDim': [33], 'radius': [7162.272437407335]}
+-0.0
+---------------------
+time: 18000.99392414093
+{'adpt': 'NNfilter', 'clf': 'EXs', 'EX_min_samples_leaf': [11], 'EXs_criterion': [0], 'EXs_max_feature': [0.9593697381614681], 'EXs_min_samples_split': [14], 'EXs_n_estimator': [170], 'NNmetric': [4], 'NNn_neighbors': [15]}
+-0.6216433566433566
+---------------------
+time: 21601.216285943985
+{'adpt': 'FSS_bagging', 'clf': 'DT', 'DTcriterion': [0], 'DTmax_features': [0.569008992577779], 'DTmin_samples_leaf': [0], 'DTmin_samples_split': [26], 'DTsplitter': [0], 'FSS_ratio': [0.7997939599460602], 'FSS_score_thre': [0.30021467175043964], 'FSS_topn': [2]}
+-0.6673524150268336
+---------------------
+time: 25201.498620033264
+{'adpt': 'NNfilter', 'clf': 'NB', 'NBparam': [2], 'NNmetric': [5], 'NNn_neighbors': [91], 'calpha': [0.01983566925864423], 'malpha': [], 'norm': [1]}
+-0.6934865134865135
+---------------------
+time: 28801.77467393875
+{}
+0
+---------------------
+time: 32402.00584578514
+{}
+0
+---------------------
+time: 36002.24374103546
+{'adpt': 'PCAmining', 'clf': 'LR', 'fit_intercept': [1], 'lrC': [8.435294109633157], 'maxiter': [23], 'pcaDim': [3], 'penalty': [0]}
+-0.6555754323196183
+---------------------
+time: 39602.49132847786
+{}
+0
+---------------------
+time: 43202.70214557648
+{'adpt': 'NNfilter', 'clf': 'NB', 'NBparam': [2], 'NNmetric': [5], 'NNn_neighbors': [91], 'calpha': [0.42505154352051455], 'malpha': [], 'norm': [1]}
+-0.6938661338661338
+---------------------
+time: 46802.96433234215
+{}
+0
+---------------------
+time: 50403.28753590584
+{}
+0
+---------------------
+time: 54003.67975497246
+{'adpt': 'FSS_bagging', 'clf': 'Perceptron', 'FSS_ratio': [0.10240575731215015], 'FSS_score_thre': [0.4153151281689931], 'FSS_topn': [0], 'Per_alpha': [0.07893360529879019], 'Per_fit_intercept': [0], 'Per_penalty': [0], 'Per_tol': [0.033590910765777346]}
+-0.6500596302921884
+---------------------
+time: 57603.93408846855
+{'adpt': 'NNfilter', 'clf': 'NCC', 'NCC_metric': [0], 'NCC_shrink_thre': [3.219985396171865], 'NNmetric': [1], 'NNn_neighbors': [75]}
+-0.7452747252747253
+---------------------
+time: 61204.247517585754
+{'adpt': 'PCAmining', 'clf': 'LR', 'fit_intercept': [1], 'lrC': [4.7339829298510265], 'maxiter': [96], 'pcaDim': [3], 'penalty': [1]}
+-0.6555754323196183
+---------------------
+time: 64804.60575413704
+{}
+0
+---------------------
+time: 68404.89796805382
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [23.723799478506667], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.0977711525003991], 'pcaDim': [38]}
+-0.7307692307692307
+---------------------
+time: 72005.20049595833

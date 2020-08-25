@@ -1,0 +1,120 @@
+{'adpt': 'PCAmining', 'clf': 'LR', 'fit_intercept': [1], 'lrC': [3.542245902103711], 'maxiter': [88], 'pcaDim': [4], 'penalty': [0]}
+-0.6982976040353089
+---------------------
+time: 3600.4361770153046
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [2.2013068340453477], 'pcaDim': [5]}
+-0.712274064733081
+---------------------
+time: 7200.897515535355
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [1.5703580033753453], 'pcaDim': [6]}
+-0.7104875998318623
+---------------------
+time: 10801.31138420105
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [2.131639118280849], 'pcaDim': [2]}
+-0.712274064733081
+---------------------
+time: 14401.734109163284
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [2.1210927252312923], 'TD_num': [9], 'TDparam': [0]}
+-0.6900378310214375
+---------------------
+time: 18002.174107551575
+{'adpt': 'PCAmining', 'clf': 'LR', 'fit_intercept': [1], 'lrC': [0.11781327415747611], 'maxiter': [52], 'pcaDim': [4], 'penalty': [0]}
+-0.6982976040353089
+---------------------
+time: 21602.727157354355
+{'adpt': 'PCAmining', 'clf': 'LR', 'fit_intercept': [1], 'lrC': [0.028101337141631322], 'maxiter': [9], 'pcaDim': [4], 'penalty': [0]}
+-0.6982976040353089
+---------------------
+time: 25203.132702827454
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [2.2930480655479464], 'pcaDim': [13]}
+-0.712274064733081
+---------------------
+time: 28803.935252428055
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [2.0489616795098744], 'pcaDim': [1]}
+-0.712274064733081
+---------------------
+time: 32404.381056785583
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [2.158226079505168], 'pcaDim': [1]}
+-0.712274064733081
+---------------------
+time: 36004.82237792015
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [2.0387253977973168], 'TD_num': [9], 'TDparam': [0]}
+-0.6875788146279949
+---------------------
+time: 3600.5098962783813
+{'adpt': 'PCAmining', 'clf': 'LR', 'fit_intercept': [1], 'lrC': [8.358657611753488], 'maxiter': [132], 'pcaDim': [4], 'penalty': [1]}
+-0.6982976040353089
+---------------------
+time: 7201.168857574463
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [1.8616680528137364], 'pcaDim': [7]}
+-0.706809583858764
+---------------------
+time: 10801.796422481537
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [1.8346128957328565], 'pcaDim': [10]}
+-0.706809583858764
+---------------------
+time: 14402.382549762726
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [2.030653584848471], 'pcaDim': [6]}
+-0.706809583858764
+---------------------
+time: 18003.040912151337
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [3.1162786696736173], 'TD_num': [8], 'TDparam': [0]}
+-0.6878520386717106
+---------------------
+time: 21603.696239709854
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [2.0457908088361116], 'pcaDim': [10]}
+-0.706809583858764
+---------------------
+time: 25204.1852414608
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [2.1185951782679315], 'TD_num': [9], 'TDparam': [0]}
+-0.6900378310214375
+---------------------
+time: 28804.834179639816
+{'adpt': 'PCAmining', 'clf': 'LR', 'fit_intercept': [1], 'lrC': [6.824669018848187], 'maxiter': [91], 'pcaDim': [4], 'penalty': [0]}
+-0.6982976040353089
+---------------------
+time: 32405.39870238304
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [1.7169989676736916], 'pcaDim': [2]}
+-0.7104875998318623
+---------------------
+time: 36005.976978302
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [1.9325153326500997], 'pcaDim': [2]}
+-0.706809583858764
+---------------------
+time: 39606.74120116234
+{'adpt': 'PCAmining', 'clf': 'LR', 'fit_intercept': [1], 'lrC': [3.7942712571332695], 'maxiter': [15], 'pcaDim': [4], 'penalty': [1]}
+-0.6976565783942833
+---------------------
+time: 43207.393226861954
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [2.047231612404552], 'pcaDim': [9]}
+-0.706809583858764
+---------------------
+time: 46807.98729014397
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [0.47114177052746425], 'pcaDim': [5]}
+-0.6995586380832284
+---------------------
+time: 50408.66789770126
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [1.1212350333829546], 'pcaDim': [0]}
+-0.7050231189575452
+---------------------
+time: 54009.283291339874
+{'adpt': 'PCAmining', 'clf': 'LR', 'fit_intercept': [1], 'lrC': [7.460944908840103], 'maxiter': [141], 'pcaDim': [4], 'penalty': [1]}
+-0.6970155527532577
+---------------------
+time: 57610.42752957344
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [1.8601316553644414], 'pcaDim': [3]}
+-0.706809583858764
+---------------------
+time: 61211.10268330574
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [2.12234995442755], 'pcaDim': [1]}
+-0.712274064733081
+---------------------
+time: 64812.079479932785
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [2.1480960985963047], 'TD_num': [9], 'TDparam': [0]}
+-0.6900378310214375
+---------------------
+time: 68412.73580956459
+{'adpt': 'PCAmining', 'clf': 'LR', 'fit_intercept': [1], 'lrC': [9.56336002367492], 'maxiter': [64], 'pcaDim': [3], 'penalty': [1]}
+-0.6873686422866749
+---------------------
+time: 72013.90248537064

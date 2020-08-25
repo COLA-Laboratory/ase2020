@@ -1,0 +1,120 @@
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 3600.1826734542847
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 7200.538106441498
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 10800.744134187698
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 14401.373800516129
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 18001.881769418716
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 21602.15557551384
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 25202.38143491745
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 28802.89168024063
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 32403.563168287277
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 36003.977831840515
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 3600.3101167678833
+{'adpt': 'FeSCH', 'clf': 'NCC', 'Fesch_nt': [9], 'Fesch_strategy': [2], 'NCC_metric': [3], 'NCC_shrink_thre': [8.215779254328442]}
+-0.7697947214076246
+---------------------
+time: 7200.614389419556
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 10800.898118257523
+{'adpt': 'FeSCH', 'clf': 'NCC', 'Fesch_nt': [8], 'Fesch_strategy': [1], 'NCC_metric': [3], 'NCC_shrink_thre': [8.585260543105038]}
+-0.7693338919145372
+---------------------
+time: 14401.226980924606
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 18001.53678917885
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 21601.96909427643
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 25202.299820899963
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 28802.758777856827
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 32403.158022403717
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [2], 'NCC_shrink_thre': [8.202047012364455], 'pcaDim': [0]}
+-0.7674905739421869
+---------------------
+time: 36003.61180639267
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 39603.99623441696
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 43204.29595088959
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 46804.626331329346
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 50405.007470846176
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 54005.35818648338
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 57605.885679244995
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 61206.35676455498
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 64806.9087100029
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 68407.35302186012
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [7], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7734059488898198
+---------------------
+time: 72007.80720686913

@@ -1,0 +1,120 @@
+{'adpt': 'CDE_SMOTE', 'clf': 'bagging', 'CDE_k': [46], 'CDE_metric': [2], 'bag_max_features': [0.7383389354551785], 'bag_max_samples': [0.8245229548054239], 'bag_n_estimators': [67]}
+-0.0
+---------------------
+time: 3600.2863278388977
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [8.645894620228901], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.08371548137424319], 'pcaDim': [1]}
+-0.8081235697940503
+---------------------
+time: 7200.75262260437
+{'adpt': 'CDE_SMOTE', 'clf': 'MLP', 'CDE_k': [63], 'CDE_metric': [4], 'MLP_activation': [1], 'MLP_hidden_layer_sizes': [143], 'MLP_maxiter': [127], 'solver': [2]}
+-0.0
+---------------------
+time: 10801.166140794754
+{'adpt': 'CDE_SMOTE', 'clf': 'PAC', 'CDE_k': [57], 'CDE_metric': [1], 'PAC_c': [31.435311963125187], 'PAC_fit_intercept': [1], 'PAC_loss': [0], 'PAC_tol': [0.03239189073076543]}
+-0.0
+---------------------
+time: 14401.670215129852
+{'adpt': 'PCAmining', 'clf': 'PAC', 'PAC_c': [88.94124716463837], 'PAC_fit_intercept': [0], 'PAC_loss': [1], 'PAC_tol': [0.09553851371796268], 'pcaDim': [12]}
+-0.759370709382151
+---------------------
+time: 18002.08064866066
+{'adpt': 'TD', 'clf': 'SVM', 'C': [2.397541219868852], 'SVCkernel': [0], 'TD_num': [2], 'TDparam': [0], 'degree': [], 'polycoef0': [], 'polygamma': [], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.6896167048054921
+---------------------
+time: 21602.60902762413
+{'adpt': 'FeSCH', 'clf': 'LR', 'Fesch_nt': 11, 'Fesch_strategy': 'SFD', 'fit_intercept': True, 'lrC': 6.1971192157124335, 'maxiter': 192, 'penalty': 'l1'}
+-0.7155892448512586
+---------------------
+time: 25203.007019519806
+{'adpt': 'PCAmining', 'clf': 'LR', 'fit_intercept': [1], 'lrC': [4.682121002088865], 'maxiter': [18], 'pcaDim': [0], 'penalty': [1]}
+-0.7786327231121282
+---------------------
+time: 28803.544847726822
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.09520801972914597], 'Per_fit_intercept': [0], 'Per_penalty': [1], 'Per_tol': [0.06205600907011413], 'pcaDim': [5]}
+-0.7960526315789472
+---------------------
+time: 32403.95675587654
+{'adpt': 'CDE_SMOTE', 'clf': 'RNC', 'CDE_k': [3], 'CDE_metric': [0], 'RNC_weights': [0], 'radius': [6192.295967551819]}
+-0.0
+---------------------
+time: 36004.49171280861
+{'adpt': 'PCAmining', 'clf': 'MLP', 'MLP_activation': [0], 'MLP_hidden_layer_sizes': [22], 'MLP_maxiter': [117], 'pcaDim': [11], 'solver': [2]}
+-0.7246109839816933
+---------------------
+time: 3600.1448867321014
+{'adpt': 'VCB', 'clf': 'RNC'}
+0
+---------------------
+time: 7200.298971414566
+{'adpt': 'UM', 'clf': 'NCC', 'NCC_metric': [0], 'NCC_shrink_thre': [1.039029554786416], 'pvalue': [0.09354304446118307]}
+-0.7702803203661329
+---------------------
+time: 10800.467943906784
+{'adpt': 'NNfilter', 'clf': 'adaBoost', 'NNmetric': [4], 'NNn_neighbors': [65], 'ada_learning_rate': [0.5437592357249961], 'ada_n_estimators': [162]}
+-0.7424386218279349
+---------------------
+time: 14400.705220937729
+{'adpt': 'MCWs', 'clf': 'MLP'}
+0
+---------------------
+time: 18000.9293487072
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [3], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7075800915331808
+---------------------
+time: 21601.125325918198
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [63.544997981291345], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.05045676279083192], 'pcaDim': [1]}
+-0.8081235697940503
+---------------------
+time: 25201.338402986526
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [0], 'NCC_shrink_thre': [0.04705086283753701], 'TD_num': [9], 'TDparam': [0]}
+-0.7985783752860411
+---------------------
+time: 28801.53638792038
+{'adpt': 'FeSCH', 'clf': 'NCC', 'Fesch_nt': 17, 'Fesch_strategy': 'FCR', 'NCC_metric': 'minkowski', 'NCC_shrink_thre': 6.785003828271877}
+-0.798340961098398
+---------------------
+time: 32401.76643872261
+{'adpt': 'TD', 'clf': 'DT', 'DTcriterion': [0], 'DTmax_features': [0.5465046125903064], 'DTmin_samples_leaf': [15], 'DTmin_samples_split': [31], 'DTsplitter': [1], 'TD_num': [8], 'TDparam': [0]}
+-0.7261813501144165
+---------------------
+time: 36001.990866184235
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [0], 'NCC_shrink_thre': [2.4728321950740244], 'pcaDim': [2]}
+-0.8017734553775744
+---------------------
+time: 39602.22032618523
+{'adpt': 'NNfilter', 'clf': 'NCC', 'NCC_metric': [4], 'NCC_shrink_thre': [0.022516239713563133], 'NNmetric': [1], 'NNn_neighbors': [46]}
+-0.7682312083075441
+---------------------
+time: 43202.42606687546
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [3], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7075800915331808
+---------------------
+time: 46802.62505698204
+{'adpt': 'NNfilter', 'clf': 'PAC', 'NNmetric': [5], 'NNn_neighbors': [64], 'PAC_c': [0.269750091643428], 'PAC_fit_intercept': [0], 'PAC_loss': [1], 'PAC_tol': [0.017860691301601506]}
+-0.6029674712880821
+---------------------
+time: 50402.84167599678
+{'adpt': 'GIS', 'clf': 'RNC', 'RNC_weights': [1], 'chrmsize': [0.029884731997107367], 'mCount': [5], 'mProb': [0.09196036303649224], 'numgens': [2], 'numparts': [2], 'popsize': [7], 'radius': [6551.0996845479995]}
+-0.5479748283752859
+---------------------
+time: 54003.06721186638
+{'adpt': 'TD', 'clf': 'Perceptron', 'Per_alpha': [0.04251835557033892], 'Per_fit_intercept': [1], 'Per_penalty': [0], 'Per_tol': [0.05653964141294891], 'TD_num': [2], 'TDparam': [0]}
+-0.7693077803203661
+---------------------
+time: 57603.31873393059
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [43.05304020381341], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.03577656860318755], 'pcaDim': [1]}
+-0.8081235697940503
+---------------------
+time: 61203.58442521095
+{'adpt': 'TD', 'clf': 'KNN', 'KNNneighbors': [5], 'KNNp': [1], 'TD_num': [7], 'TDparam': [0]}
+-0.7509153318077801
+---------------------
+time: 64803.92850637436
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [0], 'NCC_shrink_thre': [2.404517070599212], 'pcaDim': [0]}
+-0.8017734553775744
+---------------------
+time: 68404.15736317635
+{'adpt': 'TD', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.6791969778676822], 'DTmin_samples_leaf': [14], 'DTmin_samples_split': [36], 'DTsplitter': [1], 'TD_num': [8], 'TDparam': [0]}
+-0.7156521739130435
+---------------------
+time: 72004.46221733093

@@ -1,0 +1,30 @@
+{'CLIFE': [0], 'Clife_alpha': [0.11734608400235688], 'Clife_beta': [0.317950704293879], 'Clife_n': [28], 'adaBoost': [0], 'ada_learning_rate': [1.3557789099703978], 'ada_n_estimators': [97], 'adpt': [3], 'clf': [11], 'percentage': [0.8529305391426252]} 0.7327540106951871
+time: 11.540946006774902
+---------------------------
+{'EXs': [0], 'EXs_criterion': [0], 'EXs_max_feature': [0.4869993786334001], 'EXs_min_samples_leaf': [1], 'EXs_min_samples_split': [6], 'EXs_n_estimator': [43], 'TCAplus': [0], 'adpt': [10], 'clf': [13], 'dim': [6], 'gamma': [47.9301820243846], 'kernel_type': [0], 'lamb': [92.11810067830069]} 0.6953208556149734
+time: 3600.147088766098
+---------------------------
+{'CDE_SMOTE': [0], 'CDE_k': [11], 'CDE_metric': [2], 'EXs': [0], 'EXs_criterion': [0], 'EXs_max_feature': [0.3446465113097353], 'EXs_min_samples_leaf': [4], 'EXs_min_samples_split': [5], 'EXs_n_estimator': [110], 'adpt': [2], 'clf': [13]} 0.7548128342245989
+time: 720.3781354427338
+---------------------------
+{'LR': [0], 'NNfilter': [0], 'NNmetric': [4], 'NNn_neighbors': [78], 'adpt': [0], 'clf': [3], 'fit_intercept': [0], 'lrC': [1.7122405968858878], 'maxiter': [43], 'penalty': [0]} 0.9000000000000001
+time: 306.8452708721161
+---------------------------
+{'KNN': [0], 'KNNneighbors': [4], 'KNNp': [3], 'NNfilter': [0], 'NNmetric': [3], 'NNn_neighbors': [35], 'adpt': [0], 'clf': [1]} 0.775
+time: 3600.124075651169
+---------------------------
+{'DT': [0], 'DTcriterion': [0], 'DTmax_features': [0.9543322463009081], 'DTmin_samples_leaf': [18], 'DTmin_samples_split': [31], 'DTsplitter': [0], 'NNfilter': [0], 'NNmetric': [3], 'NNn_neighbors': [91], 'adpt': [0], 'clf': [2]} 0.7916666666666666
+time: 379.9203314781189
+---------------------------
+{'NNfilter': [0], 'NNmetric': [1], 'NNn_neighbors': [8], 'RF': [0], 'RFcriterion': [1], 'RFmax_features': [0.6660986003412475], 'RFmin_samples_leaf': [1], 'RFmin_samples_split': [22], 'RFn_estimators': [182], 'adpt': [0], 'clf': [0]} 0.8333333333333334
+time: 419.58920454978943
+---------------------------
+{'GIS': [0], 'adaBoost': [0], 'ada_learning_rate': [9.43478306660725], 'ada_n_estimators': [68], 'adpt': [1], 'chrmsize': [0.08993229858519908], 'clf': [11], 'mCount': [4], 'mProb': [0.03617846020354335], 'numgens': [13], 'numparts': [2], 'popsize': [13]} 0.7367647058823531
+time: 1277.9233396053314
+---------------------------
+{'Ridge': [0], 'Ridge_alpha': [10.149890897588758], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.05396339458324761], 'UM': [0], 'adpt': [9], 'clf': [4], 'pvalue': [0.03451255575700057]} 0.7366310160427807
+time: 637.2444295883179
+---------------------------
+{'EXs': [0], 'EXs_criterion': [1], 'EXs_max_feature': [0.4578153301566477], 'EXs_min_samples_leaf': [17], 'EXs_min_samples_split': [27], 'EXs_n_estimator': [68], 'PCAmining': [0], 'adpt': [11], 'clf': [13], 'pcaDim': [3]} 0.6649732620320855
+time: 5.205063343048096
+---------------------------

@@ -1,0 +1,120 @@
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [6.906569673355072], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.07985257684755094], 'pcaDim': [47]}
+-0.7268932617769828
+---------------------
+time: 3600.489305496216
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [59.6488977107989], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.051373134120522156], 'pcaDim': [27]}
+-0.7114490161001789
+---------------------
+time: 7200.758314847946
+{'adpt': 'NNfilter', 'clf': 'NB', 'NBparam': [0], 'NNmetric': [0], 'NNn_neighbors': [59], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7010705137499397
+---------------------
+time: 10802.158332109451
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [18.424691670978287], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.009508974261716398], 'pcaDim': [55]}
+-0.7268932617769828
+---------------------
+time: 14402.58321237564
+{'adpt': 'TD', 'clf': 'SVM', 'C': [4.987635691096872], 'SVCkernel': [3], 'TD_num': [0], 'TDparam': [0], 'degree': [], 'polycoef0': [], 'polygamma': [], 'rbfgamma': [3.7196708995528667], 'sigcoef0': [], 'siggamma': []}
+-0.710077519379845
+---------------------
+time: 18002.937069177628
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [8.32243461471481], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.08330294834465461], 'pcaDim': [25]}
+-0.7114490161001789
+---------------------
+time: 21603.295917510986
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [67.48082714173482], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.037249992807422416], 'pcaDim': [16]}
+-0.6842576028622541
+---------------------
+time: 25203.71640086174
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [31.850241071786584], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.03589926749717067], 'pcaDim': [47]}
+-0.7268932617769828
+---------------------
+time: 28804.269899606705
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [77.0476115740908], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.0749894527089094], 'pcaDim': [51]}
+-0.7217650566487774
+---------------------
+time: 32404.698618412018
+{'adpt': 'NNfilter', 'clf': 'NB', 'NBparam': [0], 'NNmetric': [0], 'NNn_neighbors': [81], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7190406976744186
+---------------------
+time: 36005.195039749146
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [12.281099297210842], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.09642554796194111], 'pcaDim': [45]}
+-0.7294573643410852
+---------------------
+time: 3600.290065765381
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [33.93193990529731], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.08678082515809593], 'pcaDim': [51]}
+-0.7268932617769828
+---------------------
+time: 7200.593277454376
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [6.151391122795892], 'TD_num': [2], 'TDparam': [0]}
+-0.6956410256410257
+---------------------
+time: 10801.40284204483
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [11.531055914154132], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.014988143487056366], 'pcaDim': [47]}
+-0.7294573643410852
+---------------------
+time: 14401.707011461258
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [3.9197770447832148], 'TD_num': [1], 'TDparam': [0]}
+-0.679350029815146
+---------------------
+time: 18002.022222280502
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [18.169890987243953], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.04416477110423573], 'pcaDim': [45]}
+-0.7268932617769828
+---------------------
+time: 21602.324365854263
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [30.79764446853857], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.09599182353978537], 'pcaDim': [45]}
+-0.7268932617769828
+---------------------
+time: 25202.565185785294
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [15.390858277502836], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.0329583349710628], 'pcaDim': [45]}
+-0.7294573643410852
+---------------------
+time: 28803.18769645691
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [0.0632800435123837], 'TD_num': [2], 'TDparam': [0]}
+-0.7024567680381635
+---------------------
+time: 32403.694239377975
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [19.31192333662852], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.06607500694562013], 'pcaDim': [43]}
+-0.7268932617769828
+---------------------
+time: 36004.14412522316
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [37.03482159334644], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.004268431708090045], 'pcaDim': [50]}
+-0.7243291592128801
+---------------------
+time: 39604.49929904938
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [23.2046652246569], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.08344600277408942], 'pcaDim': [48]}
+-0.7268932617769828
+---------------------
+time: 43204.859590530396
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [65.32147194726784], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.027240479668572234], 'pcaDim': [47]}
+-0.7217650566487774
+---------------------
+time: 46805.21476316452
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [9.538473951982699], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.08766710240334545], 'pcaDim': [48]}
+-0.7255813953488373
+---------------------
+time: 50405.68756151199
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [23.809933110185266], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.06829892581436636], 'pcaDim': [39]}
+-0.7268932617769828
+---------------------
+time: 54006.037080049515
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [88.67767975703931], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.002077617089913426], 'pcaDim': [45]}
+-0.7217650566487774
+---------------------
+time: 57606.58874940872
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [3.3268707448083408], 'TD_num': [2], 'TDparam': [0]}
+-0.7014967203339296
+---------------------
+time: 61207.00522971153
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [81.7748217276221], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.07550596116649799], 'pcaDim': [47]}
+-0.7217650566487774
+---------------------
+time: 64807.39985823631
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [1.6903168138697138], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.046473363167541325], 'pcaDim': [22]}
+-0.7088252832438878
+---------------------
+time: 68407.76569151878
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [39.30724952865936], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.0233699754259723], 'pcaDim': [48]}
+-0.7217650566487774
+---------------------
+time: 72008.44388198853

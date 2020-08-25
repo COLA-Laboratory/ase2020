@@ -1,0 +1,120 @@
+{'adpt': 'FeSCH', 'clf': 'NB', 'Fesch_nt': [4], 'Fesch_strategy': [1], 'NBparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7409736968075313
+---------------------
+time: 3600.3706851005554
+{'adpt': 'FeSCH', 'clf': 'NCC', 'Fesch_nt': [21], 'Fesch_strategy': [1], 'NCC_metric': [3], 'NCC_shrink_thre': [9.432947502325286]}
+-0.7243055981736279
+---------------------
+time: 7200.812314987183
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [2], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7386223043216772
+---------------------
+time: 10801.193007230759
+{'adpt': 'FeSCH', 'clf': 'NB', 'Fesch_nt': [18], 'Fesch_strategy': [2], 'NBparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.741325040197366
+---------------------
+time: 14401.61813735962
+{'adpt': 'FeSCH', 'clf': 'NB', 'Fesch_nt': [14], 'Fesch_strategy': [1], 'NBparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7409736968075313
+---------------------
+time: 18002.172344446182
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [2], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7386223043216772
+---------------------
+time: 21602.68836092949
+{'adpt': 'FeSCH', 'clf': 'NB', 'Fesch_nt': [21], 'Fesch_strategy': [1], 'NBparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7400534532912745
+---------------------
+time: 25203.0918841362
+{'adpt': 'FeSCH', 'clf': 'NB', 'Fesch_nt': [22], 'Fesch_strategy': [1], 'NBparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7400534532912745
+---------------------
+time: 28803.71977996826
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [0], 'NCC_shrink_thre': [3.705302031401103], 'TD_num': [1], 'TDparam': [0]}
+-0.7245793084825648
+---------------------
+time: 32404.161955595016
+{'adpt': 'NNfilter', 'clf': 'NB', 'NBparam': [0], 'NNmetric': [3], 'NNn_neighbors': [3], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7393435635123614
+---------------------
+time: 36004.655393600464
+{'adpt': 'FeSCH', 'clf': 'NB', 'Fesch_nt': [5], 'Fesch_strategy': [1], 'NBparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7409736968075313
+---------------------
+time: 3600.4454350471497
+{'adpt': 'FeSCH', 'clf': 'NB', 'Fesch_nt': [7], 'Fesch_strategy': [1], 'NBparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7409736968075313
+---------------------
+time: 7200.945856332779
+{'adpt': 'PCAmining', 'clf': 'NB', 'NBparam': [0], 'calpha': [], 'malpha': [], 'norm': [], 'pcaDim': [50]}
+-0.6885747425527474
+---------------------
+time: 10801.335412740707
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [66.85176870342833], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.0681640304768333], 'pcaDim': [3]}
+-0.7448602604543837
+---------------------
+time: 14401.862319231033
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [2], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7386223043216772
+---------------------
+time: 18002.341539382935
+{'adpt': 'FeSCH', 'clf': 'NB', 'Fesch_nt': [9], 'Fesch_strategy': [1], 'NBparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7409736968075313
+---------------------
+time: 21602.792651176453
+{'adpt': 'FeSCH', 'clf': 'NB', 'Fesch_nt': [21], 'Fesch_strategy': [1], 'NBparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7400534532912745
+---------------------
+time: 25203.257755041122
+{'adpt': 'FeSCH', 'clf': 'NB', 'Fesch_nt': [30], 'Fesch_strategy': [1], 'NBparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7396008493611381
+---------------------
+time: 28803.99541258812
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [61.2254270547893], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.020995519592809625], 'pcaDim': [3]}
+-0.7448602604543837
+---------------------
+time: 32404.718471050262
+{'adpt': 'FeSCH', 'clf': 'NB', 'Fesch_nt': [7], 'Fesch_strategy': [1], 'NBparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7409736968075313
+---------------------
+time: 36005.143172979355
+{'adpt': 'FeSCH', 'clf': 'NB', 'Fesch_nt': [12], 'Fesch_strategy': [1], 'NBparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7409736968075313
+---------------------
+time: 39605.85978913307
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [3], 'NCC_shrink_thre': [3.387432450858058], 'pcaDim': [48]}
+-0.716191253544119
+---------------------
+time: 43206.86295604706
+{'adpt': 'FeSCH', 'clf': 'NB', 'Fesch_nt': [16], 'Fesch_strategy': [1], 'NBparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7409736968075313
+---------------------
+time: 46807.43595409393
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [2], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7386223043216772
+---------------------
+time: 3600.2270600795746
+{'adpt': 'FeSCH', 'clf': 'NB', 'Fesch_nt': [26], 'Fesch_strategy': [1], 'NBparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7389889902176182
+---------------------
+time: 7200.431641340256
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [32.867284149162984], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.09552588211565503], 'pcaDim': [3]}
+-0.7448602604543837
+---------------------
+time: 10800.929512262344
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [73.34308197088356], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.038143372257304006], 'pcaDim': [3]}
+-0.7448602604543837
+---------------------
+time: 14401.216350793839
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [2], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7386223043216772
+---------------------
+time: 18001.489934682846
+{'adpt': 'FeSCH', 'clf': 'NB', 'Fesch_nt': [37], 'Fesch_strategy': [1], 'NBparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7396008493611381
+---------------------
+time: 21601.724267721176
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [2], 'TDparam': [0], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7386223043216772
+---------------------
+time: 25202.03610253334

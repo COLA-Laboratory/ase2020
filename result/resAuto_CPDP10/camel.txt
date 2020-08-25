@@ -1,0 +1,100 @@
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 519.5176255160452
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.09015364149713397
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.016795024497906496
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.590055591105423)
+time: 3595.043783426285
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 466.81894739536455
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.00857786331033415
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.03343772694967651
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.590055591105423)
+time: 3594.095393180847
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 352.34092123434624
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.09398756048359495
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.05191756450635233
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.590055591105423)
+time: 3594.4964468479156
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 825.3006314094937
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.00853853735553924
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.03190875436458168
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.590055591105423)
+time: 3595.5119535923004
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 957.7473058372168
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.08311136818210951
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.05672346348811805
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.590055591105423)
+time: 3594.7505190372467
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 854.1066828948425
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.06132051966832027
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.022848984627575862
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.590055591105423)
+time: 3594.247460126877
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 981.4667555823129
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.08795990247253009
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.09881609735387122
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.590055591105423)
+time: 3595.2431333065033
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 370.6091145796439
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.07971117155838248
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.09440094978657433
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.590055591105423)
+time: 3594.9015102386475
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 721.8555897914223
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.03315743028082706
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.04687775095578347
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.590055591105423)
+time: 3594.4526419639587
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 879.0494414315963
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.006674705073261513
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.022530831144333734
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.590055591105423)
+time: 3595.126166820526
+--------------------

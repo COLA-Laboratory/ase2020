@@ -1,0 +1,100 @@
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 722.4885188164193
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.009731807740502401
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.05288198294609537
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.6751336898395721)
+time: 3596.5424678325653
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 411.601295747571
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.09200842906110646
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.01926217263059031
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.6751336898395721)
+time: 3598.0901172161102
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 606.1752214251179
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.07237853043570093
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.07221178262756864
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.6751336898395721)
+time: 3597.0306656360626
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 684.6461991793664
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.047432652946903464
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.014119262724361873
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.6751336898395721)
+time: 3595.987574338913
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 87.69248297559649
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.060356066256145174
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.07333557792085292
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.6751336898395721)
+time: 3596.1294271945953
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 942.5369079650195
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.0884925439616043
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.022829532998844135
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.6751336898395721)
+time: 3596.2017147541046
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 126.73018839544504
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.07936798810435904
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.025403055648359412
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.6751336898395721)
+time: 3596.4237048625946
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 34.6580864038237
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.033102475422868566
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.04047460307002589
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.6751336898395721)
+time: 3596.0966987609863
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 894.2369275960323
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.045722308110610455
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.04024461824660733
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.6751336898395721)
+time: 3596.6659774780273
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 743.835314495506
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.058439607119144664
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.08845074980531999
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.6751336898395721)
+time: 3596.8190910816193
+--------------------

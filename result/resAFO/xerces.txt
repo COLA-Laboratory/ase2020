@@ -1,0 +1,57 @@
+{'HISNN': [0], 'HISNN_minham': [12], 'LR': [0], 'adpt': [6], 'clf': [3], 'fit_intercept': [0], 'lrC': [5.397465062611053], 'maxiter': [125], 'penalty': [0]} 0.6635666647108296
+time: 3600.116674900055
+---------------------------
+{'CLIFE': [0], 'Clife_alpha': [0.11135244262187882], 'Clife_beta': [0.3825022917666768], 'Clife_n': [43], 'MLP': [0], 'MLP_activation': [1], 'MLP_hidden_layer_sizes': [1], 'MLP_maxiter': [31], 'adpt': [3], 'clf': [7], 'percentage': [0.8736266812306659], 'solver': [0]} 0.6018766257896694
+time: 3600.111433029175
+---------------------------
+{'CLIFE': [0], 'Clife_alpha': [0.06377520759136651], 'Clife_beta': [0.21193161591957352], 'Clife_n': [22], 'LR': [0], 'adpt': [3], 'clf': [3], 'fit_intercept': [1], 'lrC': [2.7800752108583455], 'maxiter': [59], 'penalty': [0], 'percentage': [0.6561480219942744]} 0.5906339846271196
+time: 16274.448830604553
+---------------------------
+{'DT': [0], 'DTcriterion': [0], 'DTmax_features': [0.8078353028520371], 'DTmin_samples_leaf': [3], 'DTmin_samples_split': [32], 'DTsplitter': [1], 'UM': [0], 'adpt': [9], 'clf': [2], 'pvalue': [0.038317982878833395]} 0.5893744254728237
+time: 16992.424277067184
+---------------------------
+{'PCAmining': [0], 'RF': [0], 'RFcriterion': [0], 'RFmax_features': [0.22219390424271737], 'RFmin_samples_leaf': [15], 'RFmin_samples_split': [15], 'RFn_estimators': [102], 'adpt': [11], 'clf': [0], 'pcaDim': [7]} 0.6106001486436269
+time: 3600.1129438877106
+---------------------------
+{'MCW_k': [7], 'MCW_lamb': [12.024928110540666], 'MCW_sigmma': [0.7271838144513253], 'MCWs': [0], 'NB': [0], 'NBparam': [0], 'adpt': [7], 'clf': [15]} 0.7533156226126814
+time: 3600.113295316696
+---------------------------
+{'EXs': [0], 'EXs_criterion': [1], 'EXs_max_feature': [0.3431749812336296], 'EXs_min_samples_leaf': [11], 'EXs_min_samples_split': [4], 'EXs_n_estimator': [188], 'GIS': [0], 'adpt': [1], 'chrmsize': [0.03456035903752516], 'clf': [13], 'mCount': [3], 'mProb': [0.026181531913697462], 'numgens': [1], 'numparts': [0], 'popsize': [13]} 0.6796255549688045
+time: 3600.147125720978
+---------------------------
+{'EX_criterion': [0], 'EX_max_feature': [0.6789689776532193], 'EX_min_samples_leaf': [10], 'EX_min_samples_split': [5], 'EX_splitter': [1], 'EXtree': [0], 'UM': [0], 'adpt': [9], 'clf': [10], 'pvalue': [0.09291588633170117]} 0.5858270257583759
+time: 15073.244633674622
+---------------------------
+{'CDE_SMOTE': [0], 'CDE_k': [80], 'CDE_metric': [0], 'LR': [0], 'adpt': [2], 'clf': [3], 'fit_intercept': [0], 'lrC': [9.47272846132595], 'maxiter': [20], 'penalty': [0]} 0.6776731404877857
+time: 3600.114513397217
+---------------------------
+{'EXs': [0], 'EXs_criterion': [0], 'EXs_max_feature': [0.8155836517450021], 'EXs_min_samples_leaf': [6], 'EXs_min_samples_split': [32], 'EXs_n_estimator': [145], 'GIS': [0], 'adpt': [1], 'chrmsize': [0.09555406801934715], 'clf': [13], 'mCount': [2], 'mProb': [0.0253543967373993], 'numgens': [11], 'numparts': [4], 'popsize': [2]} 0.7892612313950986
+time: 3600.1441237926483
+---------------------------
+{'LR': [0], 'PCAmining': [0], 'adpt': [11], 'clf': [3], 'fit_intercept': [0], 'lrC': [5.710509748943314], 'maxiter': [88], 'pcaDim': [12], 'penalty': [0]} 0.6272223200140818
+time: 3600.1241402626038
+---------------------------
+{'GIS': [0], 'PAC': [0], 'PAC_c': [73.52076313745964], 'PAC_fit_intercept': [0], 'PAC_loss': [1], 'PAC_tol': [0.042157734709343225], 'adpt': [1], 'chrmsize': [0.03963969590206056], 'clf': [5], 'mCount': [1], 'mProb': [0.09011931710621032], 'numgens': [4], 'numparts': [3], 'popsize': [6]} 0.5936452404701832
+time: 14434.421967983246
+---------------------------
+{'CLIFE': [0], 'Clife_alpha': [0.1578507976171818], 'Clife_beta': [0.30422736221991775], 'Clife_n': [59], 'adpt': [3], 'bag_max_features': [0.7174333915806832], 'bag_max_samples': [0.8811424102664994], 'bag_n_estimators': [7], 'bagging': [0], 'clf': [12], 'percentage': [0.8509883957211659]} 0.6256708521582663
+time: 3600.1217687129974
+---------------------------
+{'GIS': [0], 'adaBoost': [0], 'ada_learning_rate': [0.18122192670843718], 'ada_n_estimators': [168], 'adpt': [1], 'chrmsize': [0.029991349143786268], 'clf': [11], 'mCount': [1], 'mProb': [0.05258250640860278], 'numgens': [9], 'numparts': [3], 'popsize': [9]} 0.6704886170275186
+time: 3600.116459131241
+---------------------------
+{'DT': [0], 'DTcriterion': [0], 'DTmax_features': [0.2844136379965398], 'DTmin_samples_leaf': [7], 'DTmin_samples_split': [5], 'DTsplitter': [1], 'MCW_k': [3], 'MCW_lamb': [20.809649334129716], 'MCW_sigmma': [5.997486365856377], 'MCWs': [0], 'adpt': [7], 'clf': [2]} 0.621398947457771
+time: 3600.1521213054657
+---------------------------
+{'TCAplus': [0], 'adpt': [10], 'bag_max_features': [0.928637084541313], 'bag_max_samples': [0.786371362765637], 'bag_n_estimators': [155], 'bagging': [0], 'clf': [12], 'dim': [0], 'gamma': [47.32168998285411], 'kernel_type': [1], 'lamb': [57.42408432906747]} 0
+time: 14253.442964553833
+---------------------------
+{'CLIFE': [0], 'Clife_alpha': [0.0707302924837371], 'Clife_beta': [0.27255833965362375], 'Clife_n': [77], 'EXs': [0], 'EXs_criterion': [1], 'EXs_max_feature': [0.8531071901609406], 'EXs_min_samples_leaf': [1], 'EXs_min_samples_split': [20], 'EXs_n_estimator': [30], 'adpt': [3], 'clf': [13], 'percentage': [0.8352881795531023]} 0.6218603923409415
+time: 15529.169330835342
+---------------------------
+{'NNfilter': [0], 'NNmetric': [0], 'NNn_neighbors': [51], 'adaBoost': [0], 'ada_learning_rate': [0.4518153395411542], 'ada_n_estimators': [64], 'adpt': [0], 'clf': [11]} 0.6009999999999999
+time: 3600.1503076553345
+---------------------------
+{'MCW_k': [1], 'MCW_lamb': [39.19413386884571], 'MCW_sigmma': [6.208953477946994], 'MCWs': [0], 'RF': [0], 'RFcriterion': [0], 'RFmax_features': [0.8549609598674552], 'RFmin_samples_leaf': [6], 'RFmin_samples_split': [18], 'RFn_estimators': [57], 'adpt': [7], 'clf': [0]} 0.813015274594686
+time: 3600.0120179653168
+---------------------------

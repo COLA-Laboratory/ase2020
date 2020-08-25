@@ -1,0 +1,90 @@
+{'GIS': [0], 'NB': [0], 'NBparam': [1], 'adpt': [1], 'chrmsize': [0.06378594569214191], 'clf': [15], 'mCount': [5], 'mProb': [0.0727019538047424], 'malpha': [7.511025311216026], 'numgens': [0], 'numparts': [4], 'popsize': [9]} 0.6576489085856935
+time: 3600.135673046112
+---------------------------
+{'PCAmining': [0], 'Ridge': [0], 'Ridge_alpha': [14.038451145489942], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.07041346659008912], 'adpt': [11], 'clf': [4], 'pcaDim': [2]} 0.6858691937353265
+time: 3600.1093356609344
+---------------------------
+{'Ridge': [0], 'Ridge_alpha': [49.65007221617726], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.09255709850431842], 'UM': [0], 'adpt': [9], 'clf': [4], 'pvalue': [0.06869407559673713]} 0.6374336904514251
+time: 3600.109967470169
+---------------------------
+{'CLIFE': [0], 'Clife_alpha': [0.15233747963184585], 'Clife_beta': [0.23055919818388584], 'Clife_n': [25], 'RF': [0], 'RFcriterion': [0], 'RFmax_features': [0.6978836043644758], 'RFmin_samples_leaf': [13], 'RFmin_samples_split': [18], 'RFn_estimators': [131], 'adpt': [3], 'clf': [0], 'percentage': [0.7468121676547289]} 0.5812875196885494
+time: 3600.1097662448883
+---------------------------
+{'LR': [0], 'TCAplus': [0], 'adpt': [10], 'clf': [3], 'dim': [6], 'fit_intercept': [1], 'gamma': [92.81089992864014], 'kernel_type': [1], 'lamb': [82.55573617885095], 'lrC': [6.73283059540947], 'maxiter': [17], 'penalty': [0]} 0
+time: 4921.972892999649
+---------------------------
+{'Ridge': [0], 'Ridge_alpha': [47.92289433935387], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.005678134200235973], 'UM': [0], 'adpt': [9], 'clf': [4], 'pvalue': [0.08578046018047204]} 0.6374336904514251
+time: 3602.333086490631
+---------------------------
+{'RF': [0], 'RFcriterion': [0], 'RFmax_features': [0.7875301100628385], 'RFmin_samples_leaf': [0], 'RFmin_samples_split': [33], 'RFn_estimators': [130], 'TD': [0], 'TD_num': [1], 'TDparam': [0], 'adpt': [12], 'clf': [0]} 0.6626981856815951
+time: 3600.113395690918
+---------------------------
+{'CDE_SMOTE': [0], 'CDE_k': [38], 'CDE_metric': [1], 'RF': [0], 'RFcriterion': [0], 'RFmax_features': [0.5353957091771708], 'RFmin_samples_leaf': [13], 'RFmin_samples_split': [13], 'RFn_estimators': [91], 'adpt': [2], 'clf': [0]} 0.6695936357692651
+time: 3601.566686630249
+---------------------------
+{'Per_alpha': [0.032695950699699695], 'Per_fit_intercept': [0], 'Per_penalty': [1], 'Per_tol': [0.057046905747015576], 'Perceptron': [0], 'UM': [0], 'adpt': [9], 'clf': [6], 'pvalue': [0.07648896806072245]} 0.6121054860471336
+time: 6662.765580177307
+---------------------------
+{'HISNN': [0], 'HISNN_minham': [50], 'LR': [0], 'adpt': [6], 'clf': [3], 'fit_intercept': [0], 'lrC': [4.809872830717213], 'maxiter': [108], 'penalty': [0]} 0.6715214419447829
+time: 7193.176521778107
+---------------------------
+{'EXs': [0], 'EXs_criterion': [1], 'EXs_max_feature': [0.300822528963111], 'EXs_min_samples_leaf': [1], 'EXs_min_samples_split': [14], 'EXs_n_estimator': [165], 'NNfilter': [0], 'NNmetric': [2], 'NNn_neighbors': [30], 'adpt': [0], 'clf': [13]} 0.6521295633500359
+time: 3600.110022544861
+---------------------------
+{'EX_criterion': [0], 'EX_max_feature': [0.4075361638216041], 'EX_min_samples_leaf': [10], 'EX_min_samples_split': [10], 'EX_splitter': [1], 'EXtree': [0], 'TCAplus': [0], 'adpt': [10], 'clf': [10], 'dim': [53], 'gamma': [0.44733638680841875], 'kernel_type': [2], 'lamb': [30.01973823904811]} 0
+time: 4650.767456769943
+---------------------------
+{'MCW_k': [1], 'MCW_lamb': [88.56676275544979], 'MCW_sigmma': [5.7550758477704225], 'MCWs': [0], 'adpt': [7], 'bag_max_features': [0.9393586564434014], 'bag_max_samples': [0.8343406342739107], 'bag_n_estimators': [90], 'bagging': [0], 'clf': [12]} 0.6049027997920714
+time: 6960.234844207764
+---------------------------
+{'FSS_bagging': [0], 'FSS_ratio': [0.8176952747630097], 'FSS_score_thre': [0.5408071608476661], 'FSS_topn': [0], 'NCC': [0], 'NCC_metric': [3], 'NCC_shrink_thre': [1.8735007616720745], 'adpt': [5], 'clf': [9]} 0.6535357662932033
+time: 3600.1074798107147
+---------------------------
+{'DT': [0], 'DTcriterion': [1], 'DTmax_features': [0.5367686965382635], 'DTmin_samples_leaf': [7], 'DTmin_samples_split': [14], 'DTsplitter': [0], 'PCAmining': [0], 'adpt': [11], 'clf': [2], 'pcaDim': [28]} 0.5847493610508485
+time: 6307.299795389175
+---------------------------
+{'MLP': [0], 'MLP_activation': [3], 'MLP_hidden_layer_sizes': [32], 'MLP_maxiter': [54], 'TD': [0], 'TDparam': [1], 'adpt': [12], 'clf': [7], 'solver': [2]} 0.648073865493774
+time: 5071.660225391388
+---------------------------
+{'CLIFE': [0], 'Clife_alpha': [0.1758986113098177], 'Clife_beta': [0.383926792780925], 'Clife_n': [82], 'EX_criterion': [0], 'EX_max_feature': [0.39018277869299633], 'EX_min_samples_leaf': [8], 'EX_min_samples_split': [2], 'EX_splitter': [1], 'EXtree': [0], 'adpt': [3], 'clf': [10], 'percentage': [0.8109154950133068]} 0.6416594846800796
+time: 3600.1516542434692
+---------------------------
+{'PCAmining': [0], 'Per_alpha': [0.04441573383920871], 'Per_fit_intercept': [1], 'Per_penalty': [0], 'Per_tol': [0.034618848704338935], 'Perceptron': [0], 'adpt': [11], 'clf': [6], 'pcaDim': [52]} 0.6540387530090047
+time: 5318.882193803787
+---------------------------
+{'EX_criterion': [1], 'EX_max_feature': [0.3575499554718937], 'EX_min_samples_leaf': [11], 'EX_min_samples_split': [18], 'EX_splitter': [1], 'EXtree': [0], 'HISNN': [0], 'HISNN_minham': [2], 'adpt': [6], 'clf': [10]} 0.6009632529941454
+time: 3600.1212475299835
+---------------------------
+{'FSS_bagging': [0], 'FSS_ratio': [0.576531678417974], 'FSS_score_thre': [0.6110896370364958], 'FSS_topn': [2], 'adpt': [5], 'bag_max_features': [0.8051683371561182], 'bag_max_samples': [0.7732893737482742], 'bag_n_estimators': [23], 'bagging': [0], 'clf': [12]} 0.6079610463906803
+time: 3600.1147322654724
+---------------------------
+{'TD': [0], 'TD_num': [1], 'TDparam': [0], 'adpt': [12], 'bag_max_features': [0.8789598910988985], 'bag_max_samples': [0.9194115437081902], 'bag_n_estimators': [177], 'bagging': [0], 'clf': [12]} 0.649931090076971
+time: 3600.1076698303223
+---------------------------
+{'GIS': [0], 'NB': [0], 'NBparam': [0], 'adpt': [1], 'chrmsize': [0.05437026379776122], 'clf': [15], 'mCount': [0], 'mProb': [0.039599818619360475], 'numgens': [8], 'numparts': [4], 'popsize': [6]} 0.6510931788463253
+time: 3600.1161975860596
+---------------------------
+{'RNC': [0], 'RNC_weights': [1], 'TD': [0], 'TDparam': [1], 'adpt': [12], 'clf': [8], 'radius': [5863.475045615204]} 0.0
+time: 3600.1083471775055
+---------------------------
+{'LR': [0], 'VCB': [0], 'VCB_M': [20], 'VCB_lamb': [0.671851662101499], 'adpt': [8], 'clf': [3], 'fit_intercept': [0], 'lrC': [9.089342794529315], 'maxiter': [113], 'penalty': [1]} 0.05
+time: 8159.791475057602
+---------------------------
+{'PCAmining': [0], 'RF': [0], 'RFcriterion': [1], 'RFmax_features': [0.3993796650654696], 'RFmin_samples_leaf': [15], 'RFmin_samples_split': [26], 'RFn_estimators': [101], 'adpt': [11], 'clf': [0], 'pcaDim': [39]} 0.6018249056435556
+time: 7784.852619409561
+---------------------------
+{'PAC': [0], 'PAC_c': [37.77427257022191], 'PAC_fit_intercept': [1], 'PAC_loss': [0], 'PAC_tol': [0.09003779853637216], 'TD': [0], 'TDparam': [1], 'adpt': [12], 'clf': [5]} 0.596438044221225
+time: 3600.1414256095886
+---------------------------
+{'LR': [0], 'MCW_k': [0], 'MCW_lamb': [77.4759056374861], 'MCW_sigmma': [0.3563808292061839], 'MCWs': [0], 'adpt': [7], 'clf': [3], 'fit_intercept': [0], 'lrC': [7.268834737780822], 'maxiter': [29], 'penalty': [1]} 0.6206156048675735
+time: 6241.170013427734
+---------------------------
+{'CDE_SMOTE': [0], 'CDE_k': [24], 'CDE_metric': [2], 'Per_alpha': [0.0856824352387333], 'Per_fit_intercept': [1], 'Per_penalty': [0], 'Per_tol': [0.013932358446354466], 'Perceptron': [0], 'adpt': [2], 'clf': [6]} 0.6288379669529555
+time: 3600.107954263687
+---------------------------
+{'RF': [0], 'RFcriterion': [0], 'RFmax_features': [0.46248214967233503], 'RFmin_samples_leaf': [1], 'RFmin_samples_split': [27], 'RFn_estimators': [152], 'TCAplus': [0], 'adpt': [10], 'clf': [0], 'dim': [11], 'gamma': [53.68866219374093], 'kernel_type': [1], 'lamb': [15.332815823955665]} 0
+time: 4708.158079147339
+---------------------------
+{'TCAplus': [0], 'adpt': [10], 'bag_max_features': [0.8870880521968709], 'bag_max_samples': [0.8232716532180233], 'bag_n_estimators': [94], 'bagging': [0], 'clf': [12], 'dim': [40], 'gamma': [61.27666169887447], 'kernel_type': [0], 'lamb': [28.90408893442003]} 0
+time: 4712.436484098434
+---------------------------

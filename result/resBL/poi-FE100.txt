@@ -1,0 +1,120 @@
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [1.850206812659723], 'TD_num': [], 'TDparam': [1]}
+-0.812985053380783
+---------------------
+time: 3600.4001059532166
+{'adpt': 'NNfilter', 'clf': 'SVM', 'C': [0.029027194189442662], 'NNmetric': [4], 'NNn_neighbors': [25], 'SVCkernel': [0], 'degree': [], 'polycoef0': [], 'polygamma': [], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.6636793447694038
+---------------------
+time: 7200.636680841446
+{'adpt': 'NNfilter', 'clf': 'LR', 'NNmetric': [5], 'NNn_neighbors': [4], 'fit_intercept': [0], 'lrC': [9.127748339935536], 'maxiter': [73], 'penalty': [0]}
+-0.6420275590551181
+---------------------
+time: 10800.880765914917
+{'adpt': 'CDE_SMOTE', 'clf': 'MLP', 'CDE_k': [80], 'CDE_metric': [2], 'MLP_activation': [3], 'MLP_hidden_layer_sizes': [90], 'MLP_maxiter': [54], 'solver': [1]}
+-0.0
+---------------------
+time: 14401.22176861763
+{'adpt': 'CDE_SMOTE', 'clf': 'EXtree', 'CDE_k': [59], 'CDE_metric': [2], 'EX_criterion': [1], 'EX_max_feature': [0.3347916138249154], 'EX_min_samples_leaf': [7], 'EX_min_samples_split': [13], 'EX_splitter': [0]}
+-0.0
+---------------------
+time: 18001.57192158699
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [1], 'TD_num': [0], 'TDparam': [0], 'calpha': [], 'malpha': [9.457726370661216], 'norm': []}
+-0.7258434163701067
+---------------------
+time: 21601.865611553192
+{'adpt': 'CDE_SMOTE', 'clf': 'bagging', 'CDE_k': [29], 'CDE_metric': [2], 'bag_max_features': [0.8520259251945449], 'bag_max_samples': [0.8035524550069538], 'bag_n_estimators': [145]}
+-0.0
+---------------------
+time: 25202.225383996964
+{'adpt': 'UM', 'clf': 'PAC', 'PAC_c': [32.85498585774565], 'PAC_fit_intercept': [1], 'PAC_loss': [1], 'PAC_tol': [0.0960682743514307], 'pvalue': [0.0914450589073299]}
+-0.643064768683274
+---------------------
+time: 28802.596690893173
+{}
+0
+---------------------
+time: 32402.97747540474
+{'adpt': 'NNfilter', 'clf': 'Ridge', 'NNmetric': [0], 'NNn_neighbors': [65], 'Ridge_alpha': [0.11678603558329981], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.04332008519452776]}
+-0.5950400731158605
+---------------------
+time: 36003.324000597
+{'adpt': 'CDE_SMOTE', 'clf': 'LR', 'CDE_k': [92], 'CDE_metric': [3], 'fit_intercept': [1], 'lrC': [3.275007714358136], 'maxiter': [52], 'penalty': [1]}
+-0.0
+---------------------
+time: 3600.4148864746094
+{'adpt': 'TD', 'clf': 'PAC', 'PAC_c': [92.70130874344738], 'PAC_fit_intercept': [1], 'PAC_loss': [1], 'PAC_tol': [0.09484940205908866], 'TD_num': [1], 'TDparam': [0]}
+-0.6814469750889681
+---------------------
+time: 7200.898444890976
+{'adpt': 'TD', 'clf': 'Ridge', 'Ridge_alpha': [98.89700837322889], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.0033589242925337976], 'TD_num': [8], 'TDparam': [0]}
+-0.7344975088967972
+---------------------
+time: 10801.357880592346
+{'adpt': 'UM', 'clf': 'NB', 'NBparam': [0], 'calpha': [], 'malpha': [], 'norm': [], 'pvalue': [0.029686779359601158]}
+-0.821411387900356
+---------------------
+time: 14401.812008142471
+{'adpt': 'TD', 'clf': 'SVM', 'C': [3.1394236728310405], 'SVCkernel': [0], 'TD_num': [0], 'TDparam': [0], 'degree': [], 'polycoef0': [], 'polygamma': [], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.6408185053380783
+---------------------
+time: 18002.382209539413
+{'adpt': 'TD', 'clf': 'adaBoost', 'TD_num': [8], 'TDparam': [0], 'ada_learning_rate': [0.7553727079959028], 'ada_n_estimators': [132]}
+-0.7720982206405693
+---------------------
+time: 21602.99427175522
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [5.772651961219778], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.09678124671450378], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 25203.491864919662
+{'adpt': 'TD', 'clf': 'LR', 'TD_num': [8], 'TDparam': [0], 'fit_intercept': [1], 'lrC': [2.6796185914774995], 'maxiter': [53], 'penalty': [1]}
+-0.733688256227758
+---------------------
+time: 28803.953342199326
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [2], 'TD_num': [1], 'TDparam': [0], 'calpha': [6.149829633117664], 'malpha': [], 'norm': [1]}
+-0.7307117437722418
+---------------------
+time: 32404.487498044968
+{'adpt': 'FeSCH', 'clf': 'EXtree', 'EX_criterion': 'entropy', 'EX_max_feature': 0.26154316897264335, 'EX_min_samples_leaf': 18, 'EX_min_samples_split': 34, 'EX_splitter': 'random', 'Fesch_nt': 15, 'Fesch_strategy': 'FCR'}
+-0.582252669039146
+---------------------
+time: 36005.206043720245
+{'adpt': 'TD', 'clf': 'Ridge', 'Ridge_alpha': [99.21983210550341], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.03983080107378295], 'TD_num': [8], 'TDparam': [0]}
+-0.7344975088967972
+---------------------
+time: 39605.97538137436
+{'adpt': 'TD', 'clf': 'Ridge', 'Ridge_alpha': [63.744241220596976], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.08866566603334261], 'TD_num': [8], 'TDparam': [0]}
+-0.7349209964412811
+---------------------
+time: 43206.57899785042
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [0.588935584343755], 'pcaDim': [1]}
+-0.8065907473309609
+---------------------
+time: 46807.31011748314
+{'adpt': 'TD', 'clf': 'SVM', 'C': [1.9452816537571285], 'SVCkernel': [0], 'TD_num': [0], 'TDparam': [0], 'degree': [], 'polycoef0': [], 'polygamma': [], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.6408185053380783
+---------------------
+time: 50408.00638318062
+{'adpt': 'NNfilter', 'clf': 'NB', 'NBparam': [0], 'NNmetric': [1], 'NNn_neighbors': [65], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7845179846021642
+---------------------
+time: 54008.66137123108
+{'adpt': 'NNfilter', 'clf': 'DT', 'DTcriterion': [0], 'DTmax_features': [0.9425995279389197], 'DTmin_samples_leaf': [14], 'DTmin_samples_split': [1], 'DTsplitter': [0], 'NNmetric': [2], 'NNn_neighbors': [0]}
+-0.7004340506129318
+---------------------
+time: 57609.19966340065
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [2.1740562595972546], 'TD_num': [3], 'TDparam': [0]}
+-0.809693950177936
+---------------------
+time: 61210.03379821777
+{'adpt': 'TD', 'clf': 'PAC', 'PAC_c': [36.11561955417361], 'PAC_fit_intercept': [0], 'PAC_loss': [1], 'PAC_tol': [0.03308770518587224], 'TD_num': [0], 'TDparam': [0]}
+-0.6772035587188612
+---------------------
+time: 64810.87950229645
+{'adpt': 'UM', 'clf': 'PAC', 'PAC_c': [22.63052871053724], 'PAC_fit_intercept': [0], 'PAC_loss': [1], 'PAC_tol': [0.04634900533923461], 'pvalue': [0.07967115026304589]}
+-0.6383615658362989
+---------------------
+time: 68411.66243624687
+{'adpt': 'NNfilter', 'clf': 'LR', 'NNmetric': [1], 'NNn_neighbors': [19], 'fit_intercept': [1], 'lrC': [9.299055630029619], 'maxiter': [18], 'penalty': [0]}
+-0.7074393644446784
+---------------------
+time: 72012.52809929848

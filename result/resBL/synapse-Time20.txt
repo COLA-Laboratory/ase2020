@@ -1,0 +1,120 @@
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.03377483987688471], 'Per_fit_intercept': [0], 'Per_penalty': [1], 'Per_tol': [0.03919640212928693], 'pcaDim': [7]}
+-0.7214067861227601
+---------------------
+time: 3600.290139198303
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.06262221340119604], 'Per_fit_intercept': [1], 'Per_penalty': [1], 'Per_tol': [0.010947032263442347], 'pcaDim': [2]}
+-0.7261723217689668
+---------------------
+time: 7200.622854471207
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.06023730917269343], 'Per_fit_intercept': [1], 'Per_penalty': [1], 'Per_tol': [0.006155787631157029], 'pcaDim': [2]}
+-0.7207078408946499
+---------------------
+time: 10800.972849369049
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.04736143549069342], 'Per_fit_intercept': [1], 'Per_penalty': [1], 'Per_tol': [0.08062394297722551], 'pcaDim': [9]}
+-0.7207078408946499
+---------------------
+time: 14401.334805488586
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.049533628487931004], 'Per_fit_intercept': [0], 'Per_penalty': [1], 'Per_tol': [0.058414024714942], 'pcaDim': [5]}
+-0.7234400813318083
+---------------------
+time: 18001.688572645187
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.011747819281920254], 'Per_fit_intercept': [0], 'Per_penalty': [0], 'Per_tol': [0.04727348184386889], 'pcaDim': [0]}
+-0.7111767696022364
+---------------------
+time: 21602.07621359825
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.050053221780028516], 'Per_fit_intercept': [0], 'Per_penalty': [1], 'Per_tol': [0.09208576859608256], 'pcaDim': [12]}
+-0.7234400813318083
+---------------------
+time: 25202.488130569458
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.050434118388444506], 'Per_fit_intercept': [0], 'Per_penalty': [1], 'Per_tol': [0.07480012476685381], 'pcaDim': [4]}
+-0.7234400813318083
+---------------------
+time: 28803.056712388992
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.05006656194564063], 'Per_fit_intercept': [0], 'Per_penalty': [1], 'Per_tol': [0.0017246297874046069], 'pcaDim': [2]}
+-0.7234400813318083
+---------------------
+time: 32403.422642707825
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.05968023678147945], 'Per_fit_intercept': [0], 'Per_penalty': [1], 'Per_tol': [0.0724849867132307], 'pcaDim': [10]}
+-0.7207078408946499
+---------------------
+time: 36003.85921859741
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [0], 'NCC_shrink_thre': [9.172091169897769], 'TD_num': [5], 'TDparam': [0]}
+-0.7101283517600712
+---------------------
+time: 3600.2867929935455
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.04820610356350059], 'Per_fit_intercept': [1], 'Per_penalty': [1], 'Per_tol': [0.046680713883841554], 'pcaDim': [8]}
+-0.7207078408946499
+---------------------
+time: 7200.5440537929535
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [3], 'NCC_shrink_thre': [9.946599284946442], 'TD_num': [6], 'TDparam': [0]}
+-0.7101283517600712
+---------------------
+time: 10800.843039512634
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.050650632754639824], 'Per_fit_intercept': [1], 'Per_penalty': [1], 'Per_tol': [0.023107873587285457], 'pcaDim': [11]}
+-0.7234400813318083
+---------------------
+time: 14401.094123601913
+{'adpt': 'NNfilter', 'clf': 'NB', 'NBparam': [0], 'NNmetric': [1], 'NNn_neighbors': [10], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7469135802469136
+---------------------
+time: 18001.417187690735
+{'adpt': 'NNfilter', 'clf': 'NB', 'NBparam': [0], 'NNmetric': [4], 'NNn_neighbors': [12], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7295963073071506
+---------------------
+time: 21601.74624824524
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.014904940313316422], 'Per_fit_intercept': [0], 'Per_penalty': [1], 'Per_tol': [0.005142787335793378], 'pcaDim': [4]}
+-0.7142584826534503
+---------------------
+time: 25202.097670316696
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [0], 'NCC_shrink_thre': [9.978347151031976], 'TD_num': [6], 'TDparam': [0]}
+-0.7101283517600712
+---------------------
+time: 28802.50768184662
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.060735773496168155], 'Per_fit_intercept': [0], 'Per_penalty': [1], 'Per_tol': [0.0873862060919148], 'pcaDim': [12]}
+-0.7207078408946499
+---------------------
+time: 32402.81257200241
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [3], 'NCC_shrink_thre': [9.31949173534367], 'TD_num': [5], 'TDparam': [0]}
+-0.7101283517600712
+---------------------
+time: 36003.199880599976
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.047188574004104866], 'Per_fit_intercept': [1], 'Per_penalty': [1], 'Per_tol': [0.09659696795595031], 'pcaDim': [0]}
+-0.7207078408946499
+---------------------
+time: 39603.70388841629
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [3], 'NCC_shrink_thre': [9.893709597604268], 'TD_num': [6], 'TDparam': [0]}
+-0.7101283517600712
+---------------------
+time: 43204.14989614487
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.05075011042326521], 'Per_fit_intercept': [1], 'Per_penalty': [1], 'Per_tol': [0.07775537282516483], 'pcaDim': [4]}
+-0.7234400813318083
+---------------------
+time: 46804.757727622986
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.05064231083138823], 'Per_fit_intercept': [0], 'Per_penalty': [1], 'Per_tol': [0.09716020766646197], 'pcaDim': [8]}
+-0.7234400813318083
+---------------------
+time: 50405.23519849777
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.060261322671164096], 'Per_fit_intercept': [0], 'Per_penalty': [1], 'Per_tol': [0.02036421771637655], 'pcaDim': [2]}
+-0.7207078408946499
+---------------------
+time: 54005.717029094696
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [0], 'NCC_shrink_thre': [9.98657277356604], 'TD_num': [6], 'TDparam': [0]}
+-0.7101283517600712
+---------------------
+time: 57606.191989421844
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.04789740711233436], 'Per_fit_intercept': [1], 'Per_penalty': [1], 'Per_tol': [0.03201632716175064], 'pcaDim': [8]}
+-0.7207078408946499
+---------------------
+time: 61206.61991286278
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.06279023034776302], 'Per_fit_intercept': [0], 'Per_penalty': [1], 'Per_tol': [0.09467376163024539], 'pcaDim': [6]}
+-0.7261723217689668
+---------------------
+time: 64807.01536607742
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [3], 'NCC_shrink_thre': [9.126084348226934], 'TD_num': [5], 'TDparam': [0]}
+-0.7101283517600712
+---------------------
+time: 68407.49407863617
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.05062234862726233], 'Per_fit_intercept': [0], 'Per_penalty': [1], 'Per_tol': [0.01784465681391831], 'pcaDim': [8]}
+-0.7234400813318083
+---------------------
+time: 72008.00358319283

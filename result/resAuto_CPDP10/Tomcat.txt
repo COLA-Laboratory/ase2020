@@ -1,0 +1,100 @@
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 514.5168740143115
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.04206036354286819
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.029764986357256537
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.7389191453707582)
+time: 3594.95365190506
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 986.9734609142325
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.03475524930265513
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.06259447158582625
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.7389191453707582)
+time: 3594.408022880554
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 934.5168008239385
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.06412245894848478
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.05027877573048409
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.7389191453707582)
+time: 3594.521992921829
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 154.23414165951255
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.01605175063822373
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.053343968587207476
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.7389191453707582)
+time: 3595.0232388973236
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 743.0486284620825
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.08058230331560758
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.05
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.7389191453707582)
+time: 3595.5294613838196
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 56.4733934535153
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.030338508416282405
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.0815545519793169
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.7389191453707582)
+time: 3595.941246032715
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 146.81456339633831
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.08056344161553211
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.08142800977011987
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.7389191453707582)
+time: 3594.185225009918
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 286.00204885040586
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.0671816080410064
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.08322254380100162
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.7389191453707582)
+time: 3594.3550143241882
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 459.9974980595457
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.07405265508683916
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.0631357021019923
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.7389191453707582)
+time: 3595.049928665161
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 550.3693354384848
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.08067741315401013
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:UM:pvalue, Value: 0.03254430039001865
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.7389191453707582)
+time: 3595.7753829956055
+--------------------

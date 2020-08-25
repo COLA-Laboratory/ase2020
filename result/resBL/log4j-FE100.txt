@@ -1,0 +1,120 @@
+{'adpt': 'PCAmining', 'clf': 'PAC', 'PAC_c': [60.71982491760594], 'PAC_fit_intercept': [1], 'PAC_loss': [0], 'PAC_tol': [0.0163653057982114], 'pcaDim': [13]}
+-0.5992746202423622
+---------------------
+time: 3600.2257363796234
+{'adpt': 'TD', 'clf': 'KNN', 'KNNneighbors': [6], 'KNNp': [2], 'TD_num': [8], 'TDparam': [0]}
+-0.6532343403311145
+---------------------
+time: 7200.401927471161
+{'adpt': 'UM', 'clf': 'Perceptron', 'Per_alpha': [0.017598889857112665], 'Per_fit_intercept': [1], 'Per_penalty': [1], 'Per_tol': [0.014032628836219465], 'pvalue': [0.0366438618868018]}
+-0.8265318313705412
+---------------------
+time: 10800.66290473938
+{'adpt': 'CDE_SMOTE', 'clf': 'RNC', 'CDE_k': [83], 'CDE_metric': [4], 'RNC_weights': [1], 'radius': [9212.583832254342]}
+-0.0
+---------------------
+time: 14400.868901252747
+{'adpt': 'NNfilter', 'clf': 'KNN', 'KNNneighbors': [0], 'KNNp': [2], 'NNmetric': [1], 'NNn_neighbors': [5]}
+-0.6678548490687218
+---------------------
+time: 18001.199278116226
+{'adpt': 'PCAmining', 'clf': 'LR', 'fit_intercept': [1], 'lrC': [4.598264848454072], 'maxiter': [35], 'pcaDim': [0], 'penalty': [1]}
+-0.6264720942140298
+---------------------
+time: 21601.367516994476
+{}
+0
+---------------------
+time: 25201.55748271942
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [0.3438568364436898], 'TD_num': [8], 'TDparam': [0]}
+-0.7205837173579109
+---------------------
+time: 28801.83436012268
+{'adpt': 'FeSCH', 'clf': 'KNN', 'Fesch_nt': 9, 'Fesch_strategy': 'LDF', 'KNNneighbors': 3, 'KNNp': 3}
+-0.638189110769756
+---------------------
+time: 32402.102945566177
+{'adpt': 'PCAmining', 'clf': 'PAC', 'PAC_c': [54.11477756983007], 'PAC_fit_intercept': [0], 'PAC_loss': [1], 'PAC_tol': [0.09904494468449937], 'pcaDim': [2]}
+-0.6203533026113671
+---------------------
+time: 36002.36174988747
+{'adpt': 'NNfilter', 'clf': 'KNN', 'KNNneighbors': [0], 'KNNp': [2], 'NNmetric': [1], 'NNn_neighbors': [18]}
+-0.6471169628202382
+---------------------
+time: 3600.18160200119
+{'adpt': 'MCWs', 'clf': 'NCC'}
+0
+---------------------
+time: 7200.36373090744
+{'adpt': 'PCAmining', 'clf': 'DT', 'DTcriterion': [0], 'DTmax_features': [0.9727332796206541], 'DTmin_samples_leaf': [11], 'DTmin_samples_split': [1], 'DTsplitter': [0], 'pcaDim': [12]}
+-0.6461512203447687
+---------------------
+time: 10800.53904056549
+{'adpt': 'CDE_SMOTE', 'clf': 'MLP', 'CDE_k': [77], 'CDE_metric': [0], 'MLP_activation': [0], 'MLP_hidden_layer_sizes': [87], 'MLP_maxiter': [135], 'solver': [1]}
+-0.0
+---------------------
+time: 14400.768002033234
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [19.712586917913562], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.08121114419501907], 'pcaDim': [1]}
+-0.6531831370541049
+---------------------
+time: 18000.997460126877
+{'adpt': 'TD', 'clf': 'PAC', 'PAC_c': [54.68316832915651], 'PAC_fit_intercept': [0], 'PAC_loss': [1], 'PAC_tol': [0.050625829435450596], 'TD_num': [8], 'TDparam': [0]}
+-0.6507339136371393
+---------------------
+time: 21601.177653312683
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [0.45740892256344523], 'TD_num': [4], 'TDparam': [0]}
+-0.7211128178870114
+---------------------
+time: 25201.598839998245
+{'adpt': 'NNfilter', 'clf': 'SVM', 'C': [3.754579825727933], 'NNmetric': [1], 'NNn_neighbors': [14], 'SVCkernel': [0], 'degree': [], 'polycoef0': [], 'polygamma': [], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.697766359808749
+---------------------
+time: 28801.80628299713
+{'adpt': 'UM', 'clf': 'SVM', 'C': [1.3113830530990258], 'SVCkernel': [1], 'degree': [0], 'polycoef0': [5.930651165906039], 'polygamma': [18.546831305636935], 'pvalue': [0.043072555246477205], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.7239289981225465
+---------------------
+time: 32402.152604579926
+{'adpt': 'CDE_SMOTE', 'clf': 'Ridge', 'CDE_k': [16], 'CDE_metric': [4], 'Ridge_alpha': [31.17846736082729], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.05593482865771197]}
+-0.0
+---------------------
+time: 36002.460032463074
+{'adpt': 'PCAmining', 'clf': 'SVM', 'C': [1.1755498850122368], 'SVCkernel': [2], 'degree': [], 'pcaDim': [4], 'polycoef0': [], 'polygamma': [], 'rbfgamma': [], 'sigcoef0': [0.9406925609198535], 'siggamma': [2.8726579883256895]}
+-0.553763440860215
+---------------------
+time: 39602.754744529724
+{'adpt': 'MCWs', 'clf': 'NCC'}
+0
+---------------------
+time: 43203.059621572495
+{'adpt': 'NNfilter', 'clf': 'EXs', 'EX_min_samples_leaf': [6], 'EXs_criterion': [1], 'EXs_max_feature': [0.8743911889461133], 'EXs_min_samples_split': [29], 'EXs_n_estimator': [111], 'NNmetric': [1], 'NNn_neighbors': [5]}
+-0.634435880967673
+---------------------
+time: 46803.319157123566
+{'adpt': 'MCWs', 'clf': 'NCC'}
+0
+---------------------
+time: 50403.58722305298
+{'adpt': 'PCAmining', 'clf': 'EXtree', 'EX_criterion': [0], 'EX_max_feature': [0.9705133669271497], 'EX_min_samples_leaf': [5], 'EX_min_samples_split': [9], 'EX_splitter': [1], 'pcaDim': [9]}
+-0.6254224270353304
+---------------------
+time: 54003.88063335419
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [2], 'TD_num': [4], 'TDparam': [0], 'calpha': [2.7483337320249803], 'malpha': [], 'norm': [0]}
+-0.845878136200717
+---------------------
+time: 57604.150475502014
+{'adpt': 'NNfilter', 'clf': 'LR', 'NNmetric': [1], 'NNn_neighbors': [13], 'fit_intercept': [1], 'lrC': [6.430487147001177], 'maxiter': [135], 'penalty': [0]}
+-0.6268679083707985
+---------------------
+time: 61204.40614557266
+{'adpt': 'TD', 'clf': 'adaBoost', 'TD_num': [8], 'TDparam': [0], 'ada_learning_rate': [1.8866142110609663], 'ada_n_estimators': [175]}
+-0.631379074927462
+---------------------
+time: 64804.94409322739
+{'adpt': 'TD', 'clf': 'Perceptron', 'Per_alpha': [0.04160630011918907], 'Per_fit_intercept': [1], 'Per_penalty': [0], 'Per_tol': [0.04785914563638474], 'TD_num': [4], 'TDparam': [0]}
+-0.7591483188257383
+---------------------
+time: 68405.4526026249
+{'adpt': 'UM', 'clf': 'PAC', 'PAC_c': [65.11201498847696], 'PAC_fit_intercept': [0], 'PAC_loss': [1], 'PAC_tol': [0.03258169926204538], 'pvalue': [0.0736366581849633]}
+-0.7085338795016215
+---------------------
+time: 72005.72017383575

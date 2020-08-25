@@ -1,0 +1,120 @@
+{'adpt': 'TD', 'clf': 'LR', 'TD_num': [0], 'TDparam': [0], 'fit_intercept': [1], 'lrC': [1.570718440470676], 'maxiter': [90], 'penalty': [0]}
+-0.7233566077959671
+---------------------
+time: 3600.289536714554
+{'adpt': 'TD', 'clf': 'LR', 'TD_num': [0], 'TDparam': [0], 'fit_intercept': [1], 'lrC': [2.1471631041788513], 'maxiter': [145], 'penalty': [0]}
+-0.7233566077959671
+---------------------
+time: 7200.644404888153
+{'adpt': 'TD', 'clf': 'LR', 'TD_num': [0], 'TDparam': [0], 'fit_intercept': [0], 'lrC': [1.737683334504203], 'maxiter': [128], 'penalty': [1]}
+-0.7180220618435722
+---------------------
+time: 3600.2744719982147
+{'adpt': 'TD', 'clf': 'LR', 'TD_num': [0], 'TDparam': [0], 'fit_intercept': [0], 'lrC': [2.688099740019558], 'maxiter': [95], 'penalty': [1]}
+-0.7201588139803243
+---------------------
+time: 7200.538296699524
+{'adpt': 'TD', 'clf': 'LR', 'TD_num': [0], 'TDparam': [0], 'fit_intercept': [1], 'lrC': [3.657285865715777], 'maxiter': [67], 'penalty': [1]}
+-0.7210682782765163
+---------------------
+time: 10800.782541036606
+{'adpt': 'TD', 'clf': 'LR', 'TD_num': [0], 'TDparam': [0], 'fit_intercept': [1], 'lrC': [2.4352784224919235], 'maxiter': [37], 'penalty': [0]}
+-0.7233566077959671
+---------------------
+time: 14401.09804558754
+{'adpt': 'TD', 'clf': 'LR', 'TD_num': [0], 'TDparam': [0], 'fit_intercept': [1], 'lrC': [9.894173068436064], 'maxiter': [27], 'penalty': [1]}
+-0.721219855659215
+---------------------
+time: 18001.352758407593
+{'adpt': 'TD', 'clf': 'LR', 'TD_num': [0], 'TDparam': [0], 'fit_intercept': [1], 'lrC': [9.877385201568133], 'maxiter': [52], 'penalty': [0]}
+-0.7223640204189403
+---------------------
+time: 21601.596242666245
+{'adpt': 'NNfilter', 'clf': 'NB', 'NBparam': [0], 'NNmetric': [5], 'NNn_neighbors': [24], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7197365392768458
+---------------------
+time: 25201.88594508171
+{'adpt': 'TD', 'clf': 'LR', 'TD_num': [0], 'TDparam': [0], 'fit_intercept': [1], 'lrC': [1.6072782252081275], 'maxiter': [74], 'penalty': [0]}
+-0.7233566077959671
+---------------------
+time: 28802.32568383217
+{'adpt': 'TD', 'clf': 'LR', 'TD_num': [0], 'TDparam': [0], 'fit_intercept': [1], 'lrC': [7.228574325569047], 'maxiter': [59], 'penalty': [0]}
+-0.721219855659215
+---------------------
+time: 3600.3883481025696
+{'adpt': 'TD', 'clf': 'LR', 'TD_num': [0], 'TDparam': [0], 'fit_intercept': [0], 'lrC': [5.139637519353512], 'maxiter': [147], 'penalty': [1]}
+-0.7157337323241213
+---------------------
+time: 7201.049201488495
+{'adpt': 'NNfilter', 'clf': 'NCC', 'NCC_metric': [0], 'NCC_shrink_thre': [1.1532911829741488], 'NNmetric': [3], 'NNn_neighbors': [41]}
+-0.6878153957967414
+---------------------
+time: 10801.519738674164
+{'adpt': 'TD', 'clf': 'LR', 'TD_num': [0], 'TDparam': [0], 'fit_intercept': [1], 'lrC': [8.969989668102146], 'maxiter': [95], 'penalty': [0]}
+-0.7223640204189403
+---------------------
+time: 14401.991800785065
+{'adpt': 'TD', 'clf': 'LR', 'TD_num': [0], 'TDparam': [0], 'fit_intercept': [1], 'lrC': [9.450567140453142], 'maxiter': [64], 'penalty': [0]}
+-0.7223640204189403
+---------------------
+time: 18002.520782232285
+{'adpt': 'TD', 'clf': 'Ridge', 'Ridge_alpha': [0.9792404592542865], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.063280424426157], 'TD_num': [0], 'TDparam': [0]}
+-0.6993438166207044
+---------------------
+time: 21603.216454982758
+{'adpt': 'NNfilter', 'clf': 'NCC', 'NCC_metric': [0], 'NCC_shrink_thre': [0.053721558530589464], 'NNmetric': [2], 'NNn_neighbors': [18]}
+-0.7092900862750824
+---------------------
+time: 25203.895953655243
+{'adpt': 'NNfilter', 'clf': 'NB', 'NBparam': [0], 'NNmetric': [5], 'NNn_neighbors': [42], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7039973351099266
+---------------------
+time: 28804.84631419182
+{'adpt': 'TD', 'clf': 'LR', 'TD_num': [0], 'TDparam': [0], 'fit_intercept': [0], 'lrC': [2.409547531403644], 'maxiter': [105], 'penalty': [0]}
+-0.7147039840403684
+---------------------
+time: 32405.361874103546
+{'adpt': 'TD', 'clf': 'LR', 'TD_num': [0], 'TDparam': [0], 'fit_intercept': [1], 'lrC': [2.0072040929521284], 'maxiter': [134], 'penalty': [0]}
+-0.7233566077959671
+---------------------
+time: 36005.900582551956
+{'adpt': 'TD', 'clf': 'Ridge', 'Ridge_alpha': [2.727178785036771], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.0992985924420198], 'TD_num': [0], 'TDparam': [0]}
+-0.704306753505838
+---------------------
+time: 39606.596994400024
+{'adpt': 'TD', 'clf': 'Ridge', 'Ridge_alpha': [2.9712466987721475], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.0846821282032259], 'TD_num': [0], 'TDparam': [0]}
+-0.7008742592266619
+---------------------
+time: 43207.09738135338
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.028815690553933352], 'Per_fit_intercept': [0], 'Per_penalty': [0], 'Per_tol': [0.0346235694794159], 'pcaDim': [11]}
+-0.7200903596784604
+---------------------
+time: 46807.683581113815
+{'adpt': 'NNfilter', 'clf': 'NB', 'NBparam': [0], 'NNmetric': [4], 'NNn_neighbors': [94], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7322953063650445
+---------------------
+time: 50408.38375234604
+{'adpt': 'TD', 'clf': 'LR', 'TD_num': [0], 'TDparam': [0], 'fit_intercept': [1], 'lrC': [8.008751086917439], 'maxiter': [67], 'penalty': [0]}
+-0.7223640204189403
+---------------------
+time: 54008.90046143532
+{'adpt': 'TD', 'clf': 'Ridge', 'Ridge_alpha': [3.4137643010635292], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.03076490253148573], 'TD_num': [0], 'TDparam': [0]}
+-0.7008742592266619
+---------------------
+time: 57609.44030547142
+{'adpt': 'TD', 'clf': 'Ridge', 'Ridge_alpha': [2.371860549322477], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.04890960824542285], 'TD_num': [0], 'TDparam': [0]}
+-0.704306753505838
+---------------------
+time: 61210.071405887604
+{'adpt': 'TD', 'clf': 'LR', 'TD_num': [0], 'TDparam': [0], 'fit_intercept': [1], 'lrC': [2.4393062624189987], 'maxiter': [122], 'penalty': [0]}
+-0.7233566077959671
+---------------------
+time: 64810.72015476227
+{'adpt': 'TD', 'clf': 'LR', 'TD_num': [0], 'TDparam': [0], 'fit_intercept': [1], 'lrC': [3.7770419146637906], 'maxiter': [99], 'penalty': [0]}
+-0.721219855659215
+---------------------
+time: 68411.58905720711
+{'adpt': 'NNfilter', 'clf': 'NB', 'NBparam': [0], 'NNmetric': [0], 'NNn_neighbors': [57], 'calpha': [], 'malpha': [], 'norm': []}
+-0.6996919522525991
+---------------------
+time: 72012.45207071304

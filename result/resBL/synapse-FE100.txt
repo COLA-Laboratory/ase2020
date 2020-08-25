@@ -1,0 +1,120 @@
+{'adpt': 'NNfilter', 'clf': 'SVM', 'C': [8.959992677305175], 'NNmetric': [2], 'NNn_neighbors': [0], 'SVCkernel': [1], 'degree': [2], 'polycoef0': [1.8728985955145907], 'polygamma': [63.44885715074328], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.5962820512820513
+---------------------
+time: 3600.2937145233154
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [43.86087491409972], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.07550078739624545], 'pcaDim': [2]}
+-0.6913521413140169
+---------------------
+time: 7200.653434038162
+{'adpt': 'NNfilter', 'clf': 'adaBoost', 'NNmetric': [5], 'NNn_neighbors': [65], 'ada_learning_rate': [0.8271578616471755], 'ada_n_estimators': [123]}
+-0.638088578088578
+---------------------
+time: 10801.04117321968
+{'adpt': 'NNfilter', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [0.05395581626967564], 'NNmetric': [4], 'NNn_neighbors': [0]}
+-0.6483799533799534
+---------------------
+time: 14401.427606344223
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [0], 'NCC_shrink_thre': [9.958638303833528], 'pcaDim': [1]}
+-0.7022175625873681
+---------------------
+time: 18001.862609624863
+{'adpt': 'FeSCH', 'clf': 'EXtree', 'EX_criterion': 'entropy', 'EX_max_feature': 0.6607154104658706, 'EX_min_samples_leaf': 4, 'EX_min_samples_split': 24, 'EX_splitter': 'random', 'Fesch_nt': 11, 'Fesch_strategy': 'FCR'}
+-0.5571038251366118
+---------------------
+time: 21602.2887737751
+{'adpt': 'FeSCH', 'clf': 'KNN', 'Fesch_nt': 10, 'Fesch_strategy': 'SFD', 'KNNneighbors': 7, 'KNNp': 1}
+-0.5151861735925785
+---------------------
+time: 25202.79144668579
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [49.8812052252469], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.06108583878467357], 'pcaDim': [2]}
+-0.6913521413140169
+---------------------
+time: 28803.12515449524
+{'adpt': 'NNfilter', 'clf': 'NCC', 'NCC_metric': [3], 'NCC_shrink_thre': [1.114590089961519], 'NNmetric': [1], 'NNn_neighbors': [50]}
+-0.6604895104895105
+---------------------
+time: 32403.682193756104
+{'adpt': 'PCAmining', 'clf': 'PAC', 'PAC_c': [35.46189780350191], 'PAC_fit_intercept': [1], 'PAC_loss': [0], 'PAC_tol': [0.0699847865361328], 'pcaDim': [5]}
+-0.6453583682805948
+---------------------
+time: 36004.07561707497
+{'adpt': 'PCAmining', 'clf': 'NCC', 'NCC_metric': [3], 'NCC_shrink_thre': [9.981125656294708], 'pcaDim': [8]}
+-0.6905896556106239
+---------------------
+time: 3600.7616486549377
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [0], 'NCC_shrink_thre': [9.06664162623408], 'TD_num': [5], 'TDparam': [0]}
+-0.7101283517600712
+---------------------
+time: 7201.518847227097
+{'adpt': 'TD', 'clf': 'EXtree', 'EX_criterion': [1], 'EX_max_feature': [0.6886118586513554], 'EX_min_samples_leaf': [13], 'EX_min_samples_split': [7], 'EX_splitter': [0], 'TD_num': [9], 'TDparam': [0]}
+-0.585862244249587
+---------------------
+time: 10803.094498157501
+{'adpt': 'NNfilter', 'clf': 'PAC', 'NNmetric': [5], 'NNn_neighbors': [32], 'PAC_c': [46.80021623219758], 'PAC_fit_intercept': [0], 'PAC_loss': [0], 'PAC_tol': [0.004198073808023238]}
+-0.5567266131522075
+---------------------
+time: 14403.938614606857
+{'adpt': 'NNfilter', 'clf': 'adaBoost', 'NNmetric': [1], 'NNn_neighbors': [33], 'ada_learning_rate': [0.4703087305589967], 'ada_n_estimators': [38]}
+-0.6077878974992281
+---------------------
+time: 18004.587960720062
+{'adpt': 'NNfilter', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [1.5607023908795772], 'NNmetric': [0], 'NNn_neighbors': [36]}
+-0.7064873417721519
+---------------------
+time: 21605.23896098137
+{'adpt': 'NNfilter', 'clf': 'Perceptron', 'NNmetric': [1], 'NNn_neighbors': [81], 'Per_alpha': [0.00282143268642081], 'Per_fit_intercept': [1], 'Per_penalty': [0], 'Per_tol': [0.02222823017898946]}
+-0.5649390243902439
+---------------------
+time: 25205.922930002213
+{'adpt': 'NNfilter', 'clf': 'adaBoost', 'NNmetric': [1], 'NNn_neighbors': [29], 'ada_learning_rate': [0.7662655714496922], 'ada_n_estimators': [100]}
+-0.6390243902439025
+---------------------
+time: 28806.52435874939
+{'adpt': 'NNfilter', 'clf': 'PAC', 'NNmetric': [3], 'NNn_neighbors': [44], 'PAC_c': [86.9296098550189], 'PAC_fit_intercept': [0], 'PAC_loss': [0], 'PAC_tol': [0.025521127190071276]}
+-0.5558737264587836
+---------------------
+time: 32407.276220083237
+{'adpt': 'NNfilter', 'clf': 'bagging', 'NNmetric': [1], 'NNn_neighbors': [29], 'bag_max_features': [0.9430558068318122], 'bag_max_samples': [0.8160173111441977], 'bag_n_estimators': [101]}
+-0.645206853967274
+---------------------
+time: 36008.09449863434
+{'adpt': 'FeSCH', 'clf': 'NCC', 'Fesch_nt': 12, 'Fesch_strategy': 'LDF', 'NCC_metric': 'manhattan', 'NCC_shrink_thre': 0.6075669648401261}
+-0.6490977252509849
+---------------------
+time: 39608.92715573311
+{'adpt': 'NNfilter', 'clf': 'EXs', 'EX_min_samples_leaf': [7], 'EXs_criterion': [0], 'EXs_max_feature': [0.7503347111999188], 'EXs_min_samples_split': [2], 'EXs_n_estimator': [112], 'NNmetric': [1], 'NNn_neighbors': [14]}
+-0.6675787280024699
+---------------------
+time: 43209.71918797493
+{'adpt': 'TD', 'clf': 'RF', 'RFcriterion': [0], 'RFmax_features': [0.6368070737232224], 'RFmin_samples_leaf': [2], 'RFmin_samples_split': [33], 'RFn_estimators': [183], 'TD_num': [8], 'TDparam': [0]}
+-0.6339878002287457
+---------------------
+time: 3600.174441099167
+{}
+0
+---------------------
+time: 7200.363292455673
+{'adpt': 'NNfilter', 'clf': 'SVM', 'C': [1.7417201639043278], 'NNmetric': [5], 'NNn_neighbors': [1], 'SVCkernel': [0], 'degree': [], 'polycoef0': [], 'polygamma': [], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.6500239884855269
+---------------------
+time: 10800.576946735382
+{'adpt': 'GIS', 'clf': 'SVM', 'C': [2.165178987515778], 'SVCkernel': [1], 'chrmsize': [0.047134552919442595], 'degree': [0], 'mCount': [4], 'mProb': [0.04169438667154654], 'numgens': [2], 'numparts': [0], 'polycoef0': [0.037036643397490465], 'polygamma': [97.0748515355159], 'popsize': [0], 'rbfgamma': [], 'sigcoef0': [], 'siggamma': []}
+-0.6927690939128224
+---------------------
+time: 14400.802007436752
+{'adpt': 'NNfilter', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [9.214870244984407], 'NNmetric': [4], 'NNn_neighbors': [51]}
+-0.6297137374060451
+---------------------
+time: 18001.006004810333
+{'adpt': 'FSS_bagging', 'clf': 'NCC', 'FSS_ratio': [0.2800619545892059], 'FSS_score_thre': [0.35203110529085646], 'FSS_topn': [8], 'NCC_metric': [1], 'NCC_shrink_thre': [7.111005081163382]}
+-0.712336383276147
+---------------------
+time: 21601.28495502472
+{'adpt': 'NNfilter', 'clf': 'Ridge', 'NNmetric': [2], 'NNn_neighbors': [2], 'Ridge_alpha': [0.15036068542578374], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.07078412141418897]}
+-0.6337837837837839
+---------------------
+time: 25201.492483139038
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [4.738109610376592], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.07813170508637918], 'pcaDim': [2]}
+-0.6913521413140169
+---------------------
+time: 28801.710212945938

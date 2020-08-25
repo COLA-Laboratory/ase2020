@@ -1,0 +1,120 @@
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [1.8022306607493452], 'TD_num': [], 'TDparam': [1]}
+-0.812785053380783
+---------------------
+time: 3600.2556052207947
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [3.394421415547346], 'TD_num': [5], 'TDparam': [0]}
+-0.811693950177936
+---------------------
+time: 7200.62126994133
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [5.39091056313207], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.029972304031397435], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 10800.867703437805
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [1.826944312057436], 'TD_num': [], 'TDparam': [1]}
+-0.812985053380783
+---------------------
+time: 14401.08935046196
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [47.60872092001863], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.0059331466798782494], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 18001.31699514389
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [41.68218235701684], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.053456178239785164], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 21601.679354429245
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [75.84762300754574], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.015248801981863132], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 25201.968435525894
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [21.788993393822395], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.06453680611268417], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 28802.259049892426
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [57.63088508023696], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.0722313191935131], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 32402.69492650032
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [79.09169087826442], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.017466768212270743], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 36002.983107328415
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [59.417888894638025], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.01614981275816378], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 3600.5904846191406
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [54.58672409356069], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.06512529047199318], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 7201.210147619247
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [2.0385617003267624], 'TD_num': [], 'TDparam': [1]}
+-0.8085160142348755
+---------------------
+time: 10801.772858381271
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [2.4966951116540006], 'TD_num': [7], 'TDparam': [0]}
+-0.8048113879003559
+---------------------
+time: 14402.403834581375
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [31.27835917543162], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.07997910246321123], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 18003.13316345215
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [37.88121047257269], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.035074059788742014], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 21603.672986745834
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [1.889985738478019], 'TD_num': [4], 'TDparam': [0]}
+-0.813473309608541
+---------------------
+time: 25204.515899419785
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [1.3156241417696357], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.06740713861972573], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 28805.379107236862
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [24.30328697208364], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.07014576704394655], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 32406.16832304001
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [1.8960267327161686], 'TD_num': [4], 'TDparam': [0]}
+-0.813473309608541
+---------------------
+time: 36006.97922825813
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [1.728343053309343], 'TD_num': [], 'TDparam': [1]}
+-0.810985053380783
+---------------------
+time: 39607.77073907852
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [1.7863158638315875], 'TD_num': [], 'TDparam': [1]}
+-0.812785053380783
+---------------------
+time: 43208.66322731972
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [1.8558439085021554], 'TD_num': [4], 'TDparam': [0]}
+-0.813473309608541
+---------------------
+time: 46809.65541315079
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [11.166142075078742], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.09587567320476116], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 50410.55938076973
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [1], 'NCC_shrink_thre': [1.7173636613612087], 'TD_num': [4], 'TDparam': [0]}
+-0.813252669039146
+---------------------
+time: 54011.31184697151
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [74.34921716618271], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.09496785810741987], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 3600.251530647278
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [24.520076154398257], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.03843952275619488], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 7200.4974246025085
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [18.06454849923763], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.062377791536904814], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 10800.703581809998
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [45.87214003804089], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.012501927051573603], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 14400.929947376251
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [17.267975219250697], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.08159929843619468], 'pcaDim': [3]}
+-0.8201352313167259
+---------------------
+time: 18001.166317224503

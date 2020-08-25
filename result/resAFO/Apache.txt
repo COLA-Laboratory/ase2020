@@ -1,0 +1,30 @@
+{'DT': [0], 'DTcriterion': [0], 'DTmax_features': [0.9155580124074578], 'DTmin_samples_leaf': [8], 'DTmin_samples_split': [33], 'DTsplitter': [1], 'GIS': [0], 'adpt': [1], 'chrmsize': [0.039118665675611536], 'clf': [2], 'mCount': [4], 'mProb': [0.08117340487615185], 'numgens': [11], 'numparts': [4], 'popsize': [11]} 0.5042410714285714
+time: 245.99809765815735
+---------------------------
+{'EXs': [0], 'EXs_criterion': [0], 'EXs_max_feature': [0.2748700164616314], 'EXs_min_samples_leaf': [13], 'EXs_min_samples_split': [12], 'EXs_n_estimator': [1], 'NNfilter': [0], 'NNmetric': [5], 'NNn_neighbors': [57], 'adpt': [0], 'clf': [13]} 0.7166666666666666
+time: 65.58863139152527
+---------------------------
+{'CDE_SMOTE': [0], 'CDE_k': [12], 'CDE_metric': [3], 'MLP': [0], 'MLP_activation': [2], 'MLP_hidden_layer_sizes': [108], 'MLP_maxiter': [106], 'adpt': [2], 'clf': [7], 'solver': [0]} 0.6287414965986394
+time: 414.7567846775055
+---------------------------
+{'GIS': [0], 'Ridge': [0], 'Ridge_alpha': [65.84937446031299], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.07867716906863167], 'adpt': [1], 'chrmsize': [0.07451919005127781], 'clf': [4], 'mCount': [1], 'mProb': [0.06152553208359464], 'numgens': [10], 'numparts': [0], 'popsize': [0]} 0.6371067176870749
+time: 109.0633156299591
+---------------------------
+{'RNC': [0], 'RNC_weights': [1], 'VCB': [0], 'VCB_M': [16], 'VCB_lamb': [1.4816685587662328], 'adpt': [8], 'clf': [8], 'radius': [3750.8595369556774]} 0
+time: 1.772778034210205
+---------------------------
+{'CLIFE': [0], 'Clife_alpha': [0.09669799294687163], 'Clife_beta': [0.3460438491398485], 'Clife_n': [6], 'EXs': [0], 'EXs_criterion': [1], 'EXs_max_feature': [0.8148565263511727], 'EXs_min_samples_leaf': [6], 'EXs_min_samples_split': [3], 'EXs_n_estimator': [134], 'adpt': [3], 'clf': [13], 'percentage': [0.7472417422682367]} 0.6932291666666667
+time: 613.171523809433
+---------------------------
+{'FeSCH': [0], 'Fesch_nt': [7], 'Fesch_strategy': [1], 'NB': [0], 'NBparam': [1], 'adpt': [4], 'clf': [15], 'malpha': [0.9436337457732413]} 0.6852147108843537
+time: 19.14363741874695
+---------------------------
+{'MLP': [0], 'MLP_activation': [0], 'MLP_hidden_layer_sizes': [148], 'MLP_maxiter': [14], 'NNfilter': [0], 'NNmetric': [4], 'NNn_neighbors': [62], 'adpt': [0], 'clf': [7], 'solver': [2]} 0.5572222222222223
+time: 130.93416023254395
+---------------------------
+{'Ridge': [0], 'Ridge_alpha': [8.794367617793137], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.08526113256218247], 'UM': [0], 'adpt': [9], 'clf': [4], 'pvalue': [0.07905304225670001]} 0.6762542517006802
+time: 1132.6724457740784
+---------------------------
+{'FSS_bagging': [0], 'FSS_ratio': [0.16642874075163716], 'FSS_score_thre': [0.6293642877891753], 'FSS_topn': [0], 'Per_alpha': [0.006371474948718133], 'Per_fit_intercept': [1], 'Per_penalty': [0], 'Per_tol': [0.06621922347008725], 'Perceptron': [0], 'adpt': [5], 'clf': [6]} 0.6937074829931971
+time: 210.9698407649994
+---------------------------

@@ -1,0 +1,120 @@
+{}
+0
+---------------------
+time: 3600.2477021217346
+{'adpt': 'TD', 'clf': 'PAC', 'PAC_c': [53.29330617504331], 'PAC_fit_intercept': [0], 'PAC_loss': [0], 'PAC_tol': [0.027169716005810307], 'TD_num': [8], 'TDparam': [0]}
+-0.6361974564926371
+---------------------
+time: 7200.719460010529
+{'adpt': 'CDE_SMOTE', 'clf': 'Ridge', 'CDE_k': [21], 'CDE_metric': [2], 'Ridge_alpha': [3.265455515994613], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.05577056293194557]}
+-0.0
+---------------------
+time: 10801.144330263138
+{'adpt': 'TD', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.27070449183531115], 'DTmin_samples_leaf': [14], 'DTmin_samples_split': [5], 'DTsplitter': [1], 'TD_num': [9], 'TDparam': [0]}
+-0.6992858099062917
+---------------------
+time: 14401.3740067482
+{'adpt': 'CDE_SMOTE', 'clf': 'SVM', 'C': [5.638796920754717], 'CDE_k': [64], 'CDE_metric': [1], 'SVCkernel': [2], 'degree': [], 'polycoef0': [], 'polygamma': [], 'rbfgamma': [], 'sigcoef0': [7.133200411256823], 'siggamma': [54.05885770046462]}
+-0.0
+---------------------
+time: 18001.62769818306
+{'adpt': 'TD', 'clf': 'EXtree', 'EX_criterion': [0], 'EX_max_feature': [0.5332069612506811], 'EX_min_samples_leaf': [13], 'EX_min_samples_split': [10], 'EX_splitter': [0], 'TD_num': [7], 'TDparam': [0]}
+-0.6117503346720213
+---------------------
+time: 21601.858603954315
+{'adpt': 'PCAmining', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.8482051804484205], 'DTmin_samples_leaf': [16], 'DTmin_samples_split': [15], 'DTsplitter': [1], 'pcaDim': [1]}
+-0.6236532797858099
+---------------------
+time: 25202.07480454445
+{}
+0
+---------------------
+time: 28802.415538549423
+{}
+0
+---------------------
+time: 32402.71262860298
+{'adpt': 'FeSCH', 'clf': 'DT', 'DTcriterion': 'gini', 'DTmax_features': 0.8795955215501123, 'DTmin_samples_leaf': 15, 'DTmin_samples_split': 29, 'DTsplitter': 'random', 'Fesch_nt': 10, 'Fesch_strategy': 'FCR'}
+-0.635210843373494
+---------------------
+time: 36002.96215033531
+{}
+0
+---------------------
+time: 3600.3268241882324
+{'adpt': 'NNfilter', 'clf': 'EXtree', 'EX_criterion': [1], 'EX_max_feature': [0.39375194553637927], 'EX_min_samples_leaf': [1], 'EX_min_samples_split': [20], 'EX_splitter': [0], 'NNmetric': [2], 'NNn_neighbors': [10]}
+-0.607997449307119
+---------------------
+time: 7200.74062204361
+{'adpt': 'TD', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.37291060235776297], 'DTmin_samples_leaf': [18], 'DTmin_samples_split': [29], 'DTsplitter': [1], 'TD_num': [8], 'TDparam': [0]}
+-0.6996967871485944
+---------------------
+time: 10801.040618658066
+{'adpt': 'CDE_SMOTE', 'clf': 'NB', 'CDE_k': [57], 'CDE_metric': [2], 'NBparam': [2], 'calpha': [9.18002596878037], 'malpha': [], 'norm': [1]}
+-0.0
+---------------------
+time: 14401.44186925888
+{'adpt': 'PCAmining', 'clf': 'Perceptron', 'Per_alpha': [0.05975557665345203], 'Per_fit_intercept': [1], 'Per_penalty': [1], 'Per_tol': [0.09720884765913076], 'pcaDim': [2]}
+-0.7843105756358767
+---------------------
+time: 18001.881662607193
+{'adpt': 'TD', 'clf': 'NB', 'NBparam': [0], 'TD_num': [], 'TDparam': [1], 'calpha': [], 'malpha': [], 'norm': []}
+-0.7219651941097723
+---------------------
+time: 21602.177250623703
+{'adpt': 'UM', 'clf': 'LR', 'fit_intercept': [0], 'lrC': [0.3000689998819306], 'maxiter': [17], 'penalty': [1], 'pvalue': [0.021584704306084675]}
+-0.7216465863453816
+---------------------
+time: 25202.542667150497
+{'adpt': 'PCAmining', 'clf': 'DT', 'DTcriterion': [0], 'DTmax_features': [0.6511734011337051], 'DTmin_samples_leaf': [14], 'DTmin_samples_split': [16], 'DTsplitter': [1], 'pcaDim': [0]}
+-0.6182824631860777
+---------------------
+time: 28802.992698669434
+{'adpt': 'CDE_SMOTE', 'clf': 'DT', 'CDE_k': [35], 'CDE_metric': [0], 'DTcriterion': [1], 'DTmax_features': [0.5326909455578437], 'DTmin_samples_leaf': [13], 'DTmin_samples_split': [1], 'DTsplitter': [0]}
+-0.0
+---------------------
+time: 32403.439419984818
+{}
+0
+---------------------
+time: 36003.98969745636
+{'adpt': 'TD', 'clf': 'Perceptron', 'Per_alpha': [0.08385110847656971], 'Per_fit_intercept': [1], 'Per_penalty': [0], 'Per_tol': [0.0950838479702205], 'TD_num': [3], 'TDparam': [0]}
+-0.7426506024096386
+---------------------
+time: 39604.41391468048
+{'adpt': 'TD', 'clf': 'NCC', 'NCC_metric': [2], 'NCC_shrink_thre': [4.232315941320467], 'TD_num': [2], 'TDparam': [0]}
+-0.8055756358768408
+---------------------
+time: 43204.7289454937
+{'adpt': 'NNfilter', 'clf': 'RF', 'NNmetric': [2], 'NNn_neighbors': [1], 'RFcriterion': [0], 'RFmax_features': [0.8106463773810187], 'RFmin_samples_leaf': [7], 'RFmin_samples_split': [33], 'RFn_estimators': [19]}
+-0.7376299954635328
+---------------------
+time: 46805.15935277939
+{'adpt': 'NNfilter', 'clf': 'EXtree', 'EX_criterion': [1], 'EX_max_feature': [0.4334417020143335], 'EX_min_samples_leaf': [16], 'EX_min_samples_split': [30], 'EX_splitter': [0], 'NNmetric': [5], 'NNn_neighbors': [24]}
+-0.6051604938271605
+---------------------
+time: 3600.1677021980286
+{'adpt': 'CDE_SMOTE', 'clf': 'EXs', 'CDE_k': [12], 'CDE_metric': [3], 'EX_min_samples_leaf': [16], 'EXs_criterion': [0], 'EXs_max_feature': [0.27742730103254065], 'EXs_min_samples_split': [16], 'EXs_n_estimator': [3]}
+-0.0
+---------------------
+time: 7200.312078952789
+{'adpt': 'TD', 'clf': 'bagging', 'TD_num': [7], 'TDparam': [0], 'bag_max_features': [0.8722328814843834], 'bag_max_samples': [0.7668733970010664], 'bag_n_estimators': [74]}
+-0.707859437751004
+---------------------
+time: 10800.483436822891
+{'adpt': 'TD', 'clf': 'EXtree', 'EX_criterion': [1], 'EX_max_feature': [0.966701533301003], 'EX_min_samples_leaf': [9], 'EX_min_samples_split': [22], 'EX_splitter': [1], 'TD_num': [6], 'TDparam': [0]}
+-0.6243681392235609
+---------------------
+time: 14400.86985707283
+{'adpt': 'PCAmining', 'clf': 'Ridge', 'Ridge_alpha': [19.40582587293212], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.057686125849111536], 'pcaDim': [2]}
+-0.7806024096385542
+---------------------
+time: 18001.169545412064
+{'adpt': 'TD', 'clf': 'adaBoost', 'TD_num': [8], 'TDparam': [0], 'ada_learning_rate': [0.045496271370994934], 'ada_n_estimators': [44]}
+-0.772491298527443
+---------------------
+time: 21601.34643793106
+{'adpt': 'TD', 'clf': 'DT', 'DTcriterion': [1], 'DTmax_features': [0.2927209231389529], 'DTmin_samples_leaf': [12], 'DTmin_samples_split': [4], 'DTsplitter': [1], 'TD_num': [8], 'TDparam': [0]}
+-0.7087503346720214
+---------------------
+time: 25201.593163490295

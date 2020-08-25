@@ -1,0 +1,90 @@
+{'PCAmining': [0], 'Per_alpha': [0.05546296735689554], 'Per_fit_intercept': [0], 'Per_penalty': [1], 'Per_tol': [0.037835902047614674], 'Perceptron': [0], 'adpt': [11], 'clf': [6], 'pcaDim': [11]} 0.758466819221968
+time: 3600.1174001693726
+---------------------------
+{'FSS_bagging': [0], 'FSS_ratio': [0.36652899405616446], 'FSS_score_thre': [0.5351715821215304], 'FSS_topn': [5], 'NCC': [0], 'NCC_metric': [1], 'NCC_shrink_thre': [6.611763244130149], 'adpt': [5], 'clf': [9]} 0.7799485125858123
+time: 10147.001256942749
+---------------------------
+{'CDE_SMOTE': [0], 'CDE_k': [17], 'CDE_metric': [3], 'DT': [0], 'DTcriterion': [1], 'DTmax_features': [0.37136406490659146], 'DTmin_samples_leaf': [6], 'DTmin_samples_split': [28], 'DTsplitter': [1], 'adpt': [2], 'clf': [2]} 0.6835068649885583
+time: 10590.720489740372
+---------------------------
+{'CLIFE': [0], 'Clife_alpha': [0.14839702927452697], 'Clife_beta': [0.35868587853812783], 'Clife_n': [2], 'LR': [0], 'adpt': [3], 'clf': [3], 'fit_intercept': [0], 'lrC': [6.5056255281966795], 'maxiter': [11], 'penalty': [0], 'percentage': [0.6775749469991013]} 0.6949942791762013
+time: 3600.1453626155853
+---------------------------
+{'EX_criterion': [0], 'EX_max_feature': [0.9190391498832566], 'EX_min_samples_leaf': [11], 'EX_min_samples_split': [11], 'EX_splitter': [0], 'EXtree': [0], 'TCAplus': [0], 'adpt': [10], 'clf': [10], 'dim': [1], 'gamma': [39.17958103703214], 'kernel_type': [3], 'lamb': [4.999907693399274]} 0
+time: 10717.552533626556
+---------------------------
+{'FSS_bagging': [0], 'FSS_ratio': [0.3945582150503092], 'FSS_score_thre': [0.6407369399446995], 'FSS_topn': [2], 'LR': [0], 'adpt': [5], 'clf': [3], 'fit_intercept': [0], 'lrC': [9.639430835023516], 'maxiter': [4], 'penalty': [0]} 0.6820108695652174
+time: 13382.432423353195
+---------------------------
+{'CLIFE': [0], 'Clife_alpha': [0.09238975971252698], 'Clife_beta': [0.23292054211741148], 'Clife_n': [56], 'NCC': [0], 'NCC_metric': [0], 'NCC_shrink_thre': [7.589918689291325], 'adpt': [3], 'clf': [9], 'percentage': [0.6716090626601904]} 0.5887013729977116
+time: 3600.130779027939
+---------------------------
+{'C': [7.7853412505511495], 'SVCkernel': [0], 'SVM': [0], 'TD': [0], 'TDparam': [1], 'adpt': [12], 'clf': [14]} 0.055563501144164765
+time: 12150.051587581635
+---------------------------
+{'NCC': [0], 'NCC_metric': [4], 'NCC_shrink_thre': [2.5969561183333942], 'TD': [0], 'TD_num': [3], 'TDparam': [0], 'adpt': [12], 'clf': [9]} 0.6671052631578948
+time: 10566.691988706589
+---------------------------
+{'FeSCH': [0], 'Fesch_nt': [13], 'Fesch_strategy': [1], 'NB': [0], 'NBparam': [0], 'adpt': [4], 'clf': [15]} 0.6848684210526317
+time: 3600.11856508255
+---------------------------
+{'EXs': [0], 'EXs_criterion': [0], 'EXs_max_feature': [0.4743121762089489], 'EXs_min_samples_leaf': [3], 'EXs_min_samples_split': [37], 'EXs_n_estimator': [167], 'PCAmining': [0], 'adpt': [11], 'clf': [13], 'pcaDim': [4]} 0.699316361556064
+time: 13029.607578516006
+---------------------------
+{'CDE_SMOTE': [0], 'CDE_k': [57], 'CDE_metric': [2], 'adaBoost': [0], 'ada_learning_rate': [2.068191254170743], 'ada_n_estimators': [2], 'adpt': [2], 'clf': [11]} 0.6686784897025172
+time: 11262.713340759277
+---------------------------
+{'CLIFE': [0], 'Clife_alpha': [0.16524071577272004], 'Clife_beta': [0.37275328381552536], 'Clife_n': [14], 'RF': [0], 'RFcriterion': [1], 'RFmax_features': [0.9087505163771008], 'RFmin_samples_leaf': [0], 'RFmin_samples_split': [32], 'RFn_estimators': [63], 'adpt': [3], 'clf': [0], 'percentage': [0.7582950974122887]} 0.6668850114416476
+time: 12070.940134525299
+---------------------------
+{'FSS_bagging': [0], 'FSS_ratio': [0.2592876399279412], 'FSS_score_thre': [0.5929808901921736], 'FSS_topn': [7], 'RF': [0], 'RFcriterion': [0], 'RFmax_features': [0.4285216925354094], 'RFmin_samples_leaf': [16], 'RFmin_samples_split': [37], 'RFn_estimators': [24], 'adpt': [5], 'clf': [0]} 0.6538358123569793
+time: 3600.1362421512604
+---------------------------
+{'CDE_SMOTE': [0], 'CDE_k': [51], 'CDE_metric': [0], 'KNN': [0], 'KNNneighbors': [0], 'KNNp': [0], 'adpt': [2], 'clf': [1]} 0.7192534324942792
+time: 12215.689257860184
+---------------------------
+{'Per_alpha': [0.09650594643566263], 'Per_fit_intercept': [0], 'Per_penalty': [0], 'Per_tol': [0.01742687148123329], 'Perceptron': [0], 'UM': [0], 'adpt': [9], 'clf': [6], 'pvalue': [0.019607373592887764]} 0.50720823798627
+time: 11001.318310022354
+---------------------------
+{'FeSCH': [0], 'Fesch_nt': [3], 'Fesch_strategy': [1], 'NB': [0], 'NBparam': [0], 'adpt': [4], 'clf': [15]} 0.6740846681922197
+time: 3600.1192235946655
+---------------------------
+{'NNfilter': [0], 'NNmetric': [4], 'NNn_neighbors': [3], 'Ridge': [0], 'Ridge_alpha': [93.92595125568927], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.01065376471148442], 'adpt': [0], 'clf': [4]} 0.49886363636363634
+time: 3600.1201751232147
+---------------------------
+{'Ridge': [0], 'Ridge_alpha': [10.563886387709413], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.06694764050025061], 'TD': [0], 'TDparam': [1], 'adpt': [12], 'clf': [4]} 0.6388758581235697
+time: 11046.923750638962
+---------------------------
+{'CLIFE': [0], 'Clife_alpha': [0.17751838658987046], 'Clife_beta': [0.23829813019114793], 'Clife_n': [28], 'MLP': [0], 'MLP_activation': [0], 'MLP_hidden_layer_sizes': [110], 'MLP_maxiter': [80], 'adpt': [3], 'clf': [7], 'percentage': [0.7025952404672399], 'solver': [0]} 0.6008266590389016
+time: 11197.106061697006
+---------------------------
+{'MLP': [0], 'MLP_activation': [3], 'MLP_hidden_layer_sizes': [33], 'MLP_maxiter': [92], 'UM': [0], 'adpt': [9], 'clf': [7], 'pvalue': [0.031245213933537047], 'solver': [0]} 0.691687643020595
+time: 11673.979845762253
+---------------------------
+{'FeSCH': [0], 'Fesch_nt': [14], 'Fesch_strategy': [2], 'NCC': [0], 'NCC_metric': [2], 'NCC_shrink_thre': [1.7743420733527593], 'adpt': [4], 'clf': [9]} 0.798340961098398
+time: 3600.1078567504883
+---------------------------
+{'CLIFE': [0], 'Clife_alpha': [0.19072152970465417], 'Clife_beta': [0.31742053205682114], 'Clife_n': [88], 'EX_criterion': [0], 'EX_max_feature': [0.9384239779845316], 'EX_min_samples_leaf': [5], 'EX_min_samples_split': [32], 'EX_splitter': [1], 'EXtree': [0], 'adpt': [3], 'clf': [10], 'percentage': [0.6557132428678619]} 0.569799771167048
+time: 11332.45221567154
+---------------------------
+{'FSS_bagging': [0], 'FSS_ratio': [0.48008519933344973], 'FSS_score_thre': [0.6957488467122286], 'FSS_topn': [0], 'LR': [0], 'adpt': [5], 'clf': [3], 'fit_intercept': [0], 'lrC': [3.684682759949464], 'maxiter': [20], 'penalty': [1]} 0.6999513729977116
+time: 3600.130613565445
+---------------------------
+{'NCC': [0], 'NCC_metric': [3], 'NCC_shrink_thre': [0.7720561078889154], 'UM': [0], 'adpt': [9], 'clf': [9], 'pvalue': [0.07226101294994311]} 0.7702803203661329
+time: 3600.152027130127
+---------------------------
+{'DT': [0], 'DTcriterion': [0], 'DTmax_features': [0.3664433579924604], 'DTmin_samples_leaf': [1], 'DTmin_samples_split': [0], 'DTsplitter': [0], 'FSS_bagging': [0], 'FSS_ratio': [0.3660820291869292], 'FSS_score_thre': [0.30329684803954454], 'FSS_topn': [5], 'adpt': [5], 'clf': [2]} 0.7104977116704806
+time: 11769.243549108505
+---------------------------
+{'CDE_SMOTE': [0], 'CDE_k': [8], 'CDE_metric': [0], 'DT': [0], 'DTcriterion': [1], 'DTmax_features': [0.3586077067640382], 'DTmin_samples_leaf': [11], 'DTmin_samples_split': [12], 'DTsplitter': [0], 'adpt': [2], 'clf': [2]} 0.6624856979405035
+time: 3600.1173610687256
+---------------------------
+{'CDE_SMOTE': [0], 'CDE_k': [0], 'CDE_metric': [2], 'NCC': [0], 'NCC_metric': [3], 'NCC_shrink_thre': [2.8649680215581173], 'adpt': [2], 'clf': [9]} 0.7673255148741419
+time: 11551.801596164703
+---------------------------
+{'CLIFE': [0], 'Clife_alpha': [0.15283905831769343], 'Clife_beta': [0.25381356009325357], 'Clife_n': [3], 'MLP': [0], 'MLP_activation': [0], 'MLP_hidden_layer_sizes': [47], 'MLP_maxiter': [52], 'adpt': [3], 'clf': [7], 'percentage': [0.8799693436487597], 'solver': [1]} 0.6993993135011441
+time: 3600.204859495163
+---------------------------
+{'CDE_SMOTE': [0], 'CDE_k': [60], 'CDE_metric': [2], 'adaBoost': [0], 'ada_learning_rate': [0.1129017016763084], 'ada_n_estimators': [189], 'adpt': [2], 'clf': [11]} 0.7656550343249429
+time: 3600.137022972107
+---------------------------

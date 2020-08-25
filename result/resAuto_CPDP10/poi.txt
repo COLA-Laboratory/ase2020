@@ -1,0 +1,103 @@
+('incument:', Configuration:
+  classifier:__choice__, Value: 'adaBoost'
+  classifier:adaBoost:BoostLearnrate, Value: 0.10022535044910877
+  classifier:adaBoost:Boostnestimator, Value: 183
+  domain_adaptation:TD:expected_num, Value: 10
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.6829893238434164)
+time: 3596.2473018169403
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 737.1541160809612
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.026255079951580218
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:TD:expected_num, Value: 9
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.5839558718861211)
+time: 3594.335952281952
+--------------------
+('incument:', Configuration:
+  classifier:__choice__, Value: 'adaBoost'
+  classifier:adaBoost:BoostLearnrate, Value: 3.9850656745521333
+  classifier:adaBoost:Boostnestimator, Value: 89
+  domain_adaptation:TD:expected_num, Value: 10
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.6826320284697508)
+time: 3595.9565703868866
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 0.010000000000000002
+  classifier:Ridge:fit_intercept, Value: True
+  classifier:Ridge:tol, Value: 0.001
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:TD:expected_num, Value: 9
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.5839558718861211)
+time: 3595.025791168213
+--------------------
+('incument:', Configuration:
+  classifier:__choice__, Value: 'adaBoost'
+  classifier:adaBoost:BoostLearnrate, Value: 0.06163378957719746
+  classifier:adaBoost:Boostnestimator, Value: 637
+  domain_adaptation:TD:expected_num, Value: 10
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.6817658362989324)
+time: 3594.5919048786163
+--------------------
+('incument:', Configuration:
+  classifier:__choice__, Value: 'adaBoost'
+  classifier:adaBoost:BoostLearnrate, Value: 2.223197225656296
+  classifier:adaBoost:Boostnestimator, Value: 50
+  domain_adaptation:TD:expected_num, Value: 10
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.681920284697509)
+time: 3595.8672647476196
+--------------------
+('incument:', Configuration:
+  classifier:__choice__, Value: 'adaBoost'
+  classifier:adaBoost:BoostLearnrate, Value: 4.531325206783724
+  classifier:adaBoost:Boostnestimator, Value: 50
+  domain_adaptation:TD:expected_num, Value: 10
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.6817644128113878)
+time: 3594.3880054950714
+--------------------
+('incument:', Configuration:
+  classifier:__choice__, Value: 'adaBoost'
+  classifier:adaBoost:BoostLearnrate, Value: 0.017166020587359273
+  classifier:adaBoost:Boostnestimator, Value: 788
+  domain_adaptation:TD:expected_num, Value: 10
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.6808320284697509)
+time: 3595.440881729126
+--------------------
+('incument:', Configuration:
+  classifier:__choice__, Value: 'adaBoost'
+  classifier:adaBoost:BoostLearnrate, Value: 0.038300479846497565
+  classifier:adaBoost:Boostnestimator, Value: 121
+  domain_adaptation:TD:expected_num, Value: 10
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.6824099644128114)
+time: 3594.53448343277
+--------------------
+('incument:', Configuration:
+  classifier:Ridge:Ridgealpha, Value: 18.98044011053912
+  classifier:Ridge:fit_intercept, Value: False
+  classifier:Ridge:tol, Value: 0.023615256161973342
+  classifier:__choice__, Value: 'Ridge'
+  domain_adaptation:TD:expected_num, Value: 9
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.5839558718861211)
+time: 3594.825319290161
+--------------------

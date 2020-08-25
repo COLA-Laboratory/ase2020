@@ -1,0 +1,97 @@
+('incument:', Configuration:
+  classifier:__choice__, Value: 'adaBoost'
+  classifier:adaBoost:BoostLearnrate, Value: 0.2627532459088902
+  classifier:adaBoost:Boostnestimator, Value: 35
+  domain_adaptation:TD:expected_num, Value: 2
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.622581991651759)
+time: 3596.5100286006927
+--------------------
+('incument:', Configuration:
+  classifier:__choice__, Value: 'adaBoost'
+  classifier:adaBoost:BoostLearnrate, Value: 2.363120180630958
+  classifier:adaBoost:Boostnestimator, Value: 704
+  domain_adaptation:TD:expected_num, Value: 2
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.614824090638044)
+time: 3594.726748943329
+--------------------
+('incument:', Configuration:
+  classifier:__choice__, Value: 'adaBoost'
+  classifier:adaBoost:BoostLearnrate, Value: 0.23101762857061295
+  classifier:adaBoost:Boostnestimator, Value: 269
+  domain_adaptation:TD:expected_num, Value: 2
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.6180143112701252)
+time: 3596.4078011512756
+--------------------
+('incument:', Configuration:
+  classifier:__choice__, Value: 'adaBoost'
+  classifier:adaBoost:BoostLearnrate, Value: 7.142825095551745
+  classifier:adaBoost:Boostnestimator, Value: 942
+  domain_adaptation:UM:pvalue, Value: 0.05438748858440739
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.5674418604651164)
+time: 3594.6935646533966
+--------------------
+('incument:', Configuration:
+  classifier:__choice__, Value: 'adaBoost'
+  classifier:adaBoost:BoostLearnrate, Value: 0.146444039643661
+  classifier:adaBoost:Boostnestimator, Value: 461
+  domain_adaptation:TD:expected_num, Value: 2
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.6132200357781752)
+time: 3595.4357903003693
+--------------------
+('incument:', Configuration:
+  classifier:__choice__, Value: 'adaBoost'
+  classifier:adaBoost:BoostLearnrate, Value: 0.04612366553241099
+  classifier:adaBoost:Boostnestimator, Value: 938
+  domain_adaptation:TD:expected_num, Value: 2
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.6174001192605842)
+time: 3595.7015566825867
+--------------------
+('incument:', Configuration:
+  classifier:__choice__, Value: 'adaBoost'
+  classifier:adaBoost:BoostLearnrate, Value: 0.024836890414705357
+  classifier:adaBoost:Boostnestimator, Value: 497
+  domain_adaptation:UM:pvalue, Value: 0.03156183267740871
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.566690518783542)
+time: 3595.578024864197
+--------------------
+('incument:', Configuration:
+  classifier:__choice__, Value: 'adaBoost'
+  classifier:adaBoost:BoostLearnrate, Value: 0.042774422848993854
+  classifier:adaBoost:Boostnestimator, Value: 788
+  domain_adaptation:UM:pvalue, Value: 0.03900993315685357
+  domain_adaptation:__choice__, Value: 'UM'
+, 'finc:', 0.5665533691115087)
+time: 3594.2788372039795
+--------------------
+('incument:', Configuration:
+  classifier:__choice__, Value: 'adaBoost'
+  classifier:adaBoost:BoostLearnrate, Value: 3.044226385693651
+  classifier:adaBoost:Boostnestimator, Value: 696
+  domain_adaptation:TD:expected_num, Value: 2
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.6157543231961837)
+time: 3594.3852405548096
+--------------------
+('incument:', Configuration:
+  classifier:__choice__, Value: 'adaBoost'
+  classifier:adaBoost:BoostLearnrate, Value: 0.9461644755415579
+  classifier:adaBoost:Boostnestimator, Value: 868
+  domain_adaptation:TD:expected_num, Value: 2
+  domain_adaptation:TD:strategy, Value: 'NN'
+  domain_adaptation:__choice__, Value: 'TD'
+, 'finc:', 0.6176624925462135)
+time: 3594.0853400230408
+--------------------

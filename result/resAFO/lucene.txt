@@ -1,0 +1,90 @@
+{'HISNN': [0], 'HISNN_minham': [0], 'NCC': [0], 'NCC_metric': [1], 'NCC_shrink_thre': [9.341757231496414], 'adpt': [6], 'clf': [9]} 0.591288332667643
+time: 10777.024003744125
+---------------------------
+{'FSS_bagging': [0], 'FSS_ratio': [0.29262078401345204], 'FSS_score_thre': [0.6764014448489882], 'FSS_topn': [7], 'PAC': [0], 'PAC_c': [86.27399869042587], 'PAC_fit_intercept': [0], 'PAC_loss': [0], 'PAC_tol': [0.0060919788445047435], 'adpt': [5], 'clf': [5]} 0.5052567345670794
+time: 10424.531602621078
+---------------------------
+{'C': [9.446162068556385], 'SVCkernel': [2], 'SVM': [0], 'TCAplus': [0], 'adpt': [10], 'clf': [14], 'dim': [13], 'gamma': [8.261608873587075], 'kernel_type': [3], 'lamb': [9.002074390915178], 'sigcoef0': [2.1551518886000673], 'siggamma': [44.733689451322576]} 0
+time: 10780.399355173111
+---------------------------
+{'EX_criterion': [0], 'EX_max_feature': [0.47059032422394503], 'EX_min_samples_leaf': [5], 'EX_min_samples_split': [25], 'EX_splitter': [0], 'EXtree': [0], 'MCW_k': [1], 'MCW_lamb': [39.89657811692087], 'MCW_sigmma': [3.812145860836638], 'MCWs': [0], 'adpt': [7], 'clf': [10]} 0.7204875514696942
+time: 3600.125218153
+---------------------------
+{'CDE_SMOTE': [0], 'CDE_k': [62], 'CDE_metric': [1], 'NCC': [0], 'NCC_metric': [0], 'NCC_shrink_thre': [2.420523780073618], 'adpt': [2], 'clf': [9]} 0.6277807364014261
+time: 12418.421941041946
+---------------------------
+{'EX_criterion': [1], 'EX_max_feature': [0.9325583026164475], 'EX_min_samples_leaf': [18], 'EX_min_samples_split': [32], 'EX_splitter': [1], 'EXtree': [0], 'FeSCH': [0], 'Fesch_nt': [14], 'Fesch_strategy': [0], 'adpt': [4], 'clf': [10]} 0.5727991538336366
+time: 9894.581091165543
+---------------------------
+{'EXs': [0], 'EXs_criterion': [0], 'EXs_max_feature': [0.8237903970532012], 'EXs_min_samples_leaf': [11], 'EXs_min_samples_split': [28], 'EXs_n_estimator': [45], 'MCW_k': [5], 'MCW_lamb': [46.363638182759026], 'MCW_sigmma': [3.3366343354443107], 'MCWs': [0], 'adpt': [7], 'clf': [13]} 0.8365352669816956
+time: 13335.89801955223
+---------------------------
+{'CDE_SMOTE': [0], 'CDE_k': [44], 'CDE_metric': [3], 'adpt': [2], 'bag_max_features': [0.7535292090422657], 'bag_max_samples': [0.7772604762905473], 'bag_n_estimators': [70], 'bagging': [0], 'clf': [12]} 0.6155238982825191
+time: 10917.056122779846
+---------------------------
+{'RF': [0], 'RFcriterion': [0], 'RFmax_features': [0.7901420869076998], 'RFmin_samples_leaf': [1], 'RFmin_samples_split': [28], 'RFn_estimators': [76], 'UM': [0], 'adpt': [9], 'clf': [0], 'pvalue': [0.05771472527612363]} 0.6331129158715366
+time: 10550.236139059067
+---------------------------
+{'LR': [0], 'PCAmining': [0], 'adpt': [11], 'clf': [3], 'fit_intercept': [1], 'lrC': [4.243175390572521], 'maxiter': [28], 'pcaDim': [7], 'penalty': [1]} 0.7051731534490155
+time: 3600.1079018115997
+---------------------------
+{'EXs': [0], 'EXs_criterion': [0], 'EXs_max_feature': [0.9413967631568174], 'EXs_min_samples_leaf': [14], 'EXs_min_samples_split': [23], 'EXs_n_estimator': [26], 'UM': [0], 'adpt': [9], 'clf': [13], 'pvalue': [0.08858828219260526]} 0.5958312992795752
+time: 9841.151659727097
+---------------------------
+{'EX_criterion': [0], 'EX_max_feature': [0.21221390712754673], 'EX_min_samples_leaf': [7], 'EX_min_samples_split': [0], 'EX_splitter': [0], 'EXtree': [0], 'MCW_k': [3], 'MCW_lamb': [62.273897369873886], 'MCW_sigmma': [4.769796807741848], 'MCWs': [0], 'adpt': [7], 'clf': [10]} 0.7282538592360022
+time: 12352.785831451416
+---------------------------
+{'DT': [0], 'DTcriterion': [0], 'DTmax_features': [0.3177825098155859], 'DTmin_samples_leaf': [8], 'DTmin_samples_split': [19], 'DTsplitter': [0], 'NNfilter': [0], 'NNmetric': [5], 'NNn_neighbors': [11], 'adpt': [0], 'clf': [2]} 0.6494505494505495
+time: 3600.1324388980865
+---------------------------
+{'PCAmining': [0], 'Ridge': [0], 'Ridge_alpha': [27.11156264553111], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.09048009553277711], 'adpt': [11], 'clf': [4], 'pcaDim': [8]} 0.7138271276202311
+time: 10356.666484117508
+---------------------------
+{'MCW_k': [3], 'MCW_lamb': [5.129357503511977], 'MCW_sigmma': [8.704981640407652], 'MCWs': [0], 'NB': [0], 'NBparam': [2], 'adpt': [7], 'calpha': [8.67240026998728], 'clf': [15], 'norm': [0]} 0.6295543874115302
+time: 3600.1425709724426
+---------------------------
+{'EXs': [0], 'EXs_criterion': [0], 'EXs_max_feature': [0.2943140434912387], 'EXs_min_samples_leaf': [15], 'EXs_min_samples_split': [17], 'EXs_n_estimator': [71], 'FSS_bagging': [0], 'FSS_ratio': [0.5694601588943558], 'FSS_score_thre': [0.45369154351260943], 'FSS_topn': [3], 'adpt': [5], 'clf': [13]} 0.6632583322238494
+time: 11898.312021493912
+---------------------------
+{'PCAmining': [0], 'Ridge': [0], 'Ridge_alpha': [89.51720368945773], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.0811301349754654], 'adpt': [11], 'clf': [4], 'pcaDim': [3]} 0.7083610704300359
+time: 3600.126234769821
+---------------------------
+{'MCW_k': [4], 'MCW_lamb': [68.55199801956404], 'MCW_sigmma': [7.449866618474374], 'MCWs': [0], 'adpt': [7], 'bag_max_features': [0.78111308844428], 'bag_max_samples': [0.8672941982441719], 'bag_n_estimators': [107], 'bagging': [0], 'clf': [12]} 0.7896449350913637
+time: 3600.1204028129578
+---------------------------
+[] 0
+time: 3600.109266281128
+---------------------------
+{'HISNN': [0], 'HISNN_minham': [0], 'RF': [0], 'RFcriterion': [1], 'RFmax_features': [0.4814403054195287], 'RFmin_samples_leaf': [4], 'RFmin_samples_split': [13], 'RFn_estimators': [80], 'adpt': [6], 'clf': [0]} 0.6077937543454784
+time: 9945.407484531403
+---------------------------
+{'CDE_SMOTE': [0], 'CDE_k': [91], 'CDE_metric': [3], 'NCC': [0], 'NCC_metric': [3], 'NCC_shrink_thre': [4.178221970840077], 'adpt': [2], 'clf': [9]} 0.6276305862512759
+time: 10007.026637077332
+---------------------------
+{'RF': [0], 'RFcriterion': [1], 'RFmax_features': [0.8478585477277605], 'RFmin_samples_leaf': [8], 'RFmin_samples_split': [19], 'RFn_estimators': [37], 'UM': [0], 'adpt': [9], 'clf': [0], 'pvalue': [0.07422361204284346]} 0.6306868444799478
+time: 11351.750405311584
+---------------------------
+{'GIS': [0], 'LR': [0], 'adpt': [1], 'chrmsize': [0.051661452786580936], 'clf': [3], 'fit_intercept': [0], 'lrC': [1.5699129687261675], 'mCount': [2], 'mProb': [0.09522359159821833], 'maxiter': [45], 'numgens': [14], 'numparts': [1], 'penalty': [1], 'popsize': [9]} 0.6379521146762526
+time: 11053.884429693222
+---------------------------
+{'DT': [0], 'DTcriterion': [0], 'DTmax_features': [0.5007103628496017], 'DTmin_samples_leaf': [16], 'DTmin_samples_split': [33], 'DTsplitter': [1], 'NNfilter': [0], 'NNmetric': [0], 'NNn_neighbors': [47], 'adpt': [0], 'clf': [2]} 0.6227106227106226
+time: 3600.1115560531616
+---------------------------
+{'CDE_SMOTE': [0], 'CDE_k': [90], 'CDE_metric': [0], 'RF': [0], 'RFcriterion': [1], 'RFmax_features': [0.20075595762797604], 'RFmin_samples_leaf': [12], 'RFmin_samples_split': [19], 'RFn_estimators': [47], 'adpt': [2], 'clf': [0]} 0.6651400168641549
+time: 3600.115458726883
+---------------------------
+{'EX_criterion': [1], 'EX_max_feature': [0.3807681839383206], 'EX_min_samples_leaf': [3], 'EX_min_samples_split': [32], 'EX_splitter': [1], 'EXtree': [0], 'TD': [0], 'TD_num': [1], 'TDparam': [0], 'adpt': [12], 'clf': [10]} 0.6150194529504874
+time: 3600.112322807312
+---------------------------
+{'MLP': [0], 'MLP_activation': [2], 'MLP_hidden_layer_sizes': [71], 'MLP_maxiter': [138], 'PCAmining': [0], 'adpt': [11], 'clf': [7], 'pcaDim': [6], 'solver': [0]} 0.6349620556517108
+time: 9142.343658208847
+---------------------------
+{'FSS_bagging': [0], 'FSS_ratio': [0.13951770399472566], 'FSS_score_thre': [0.3846306338689309], 'FSS_topn': [3], 'adaBoost': [0], 'ada_learning_rate': [0.7884350214936636], 'ada_n_estimators': [47], 'adpt': [5], 'clf': [11]} 0.669120844982914
+time: 11287.709282636642
+---------------------------
+{'HISNN': [0], 'HISNN_minham': [8], 'adpt': [6], 'bag_max_features': [0.9297642105184012], 'bag_max_samples': [0.7901333763270951], 'bag_n_estimators': [99], 'bagging': [0], 'clf': [12]} 0.5731712007574077
+time: 9548.547404527664
+---------------------------
+[] 0
+time: 3600.1094121932983
+---------------------------

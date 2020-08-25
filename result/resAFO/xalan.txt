@@ -1,0 +1,90 @@
+{'NNfilter': [0], 'NNmetric': [5], 'NNn_neighbors': [12], 'Ridge': [0], 'Ridge_alpha': [77.97990508112117], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.005342868929955224], 'adpt': [0], 'clf': [4]} 0.5147727272727273
+time: 11334.658019065857
+---------------------------
+{'NNfilter': [0], 'NNmetric': [0], 'NNn_neighbors': [51], 'RF': [0], 'RFcriterion': [0], 'RFmax_features': [0.7253682792084601], 'RFmin_samples_leaf': [18], 'RFmin_samples_split': [8], 'RFn_estimators': [161], 'adpt': [0], 'clf': [0]} 0.5539772727272727
+time: 10180.354159355164
+---------------------------
+{'DT': [0], 'DTcriterion': [1], 'DTmax_features': [0.3593974521488315], 'DTmin_samples_leaf': [14], 'DTmin_samples_split': [26], 'DTsplitter': [0], 'GIS': [0], 'adpt': [1], 'chrmsize': [0.09768946777662821], 'clf': [2], 'mCount': [5], 'mProb': [0.027921389047602475], 'numgens': [8], 'numparts': [4], 'popsize': [10]} 0.7966575498103895
+time: 3600.115186214447
+---------------------------
+{'EX_criterion': [1], 'EX_max_feature': [0.7603163354125315], 'EX_min_samples_leaf': [12], 'EX_min_samples_split': [10], 'EX_splitter': [1], 'EXtree': [0], 'TD': [0], 'TDparam': [1], 'adpt': [12], 'clf': [10]} 0.566168437368326
+time: 3600.113738298416
+---------------------------
+{'CDE_SMOTE': [0], 'CDE_k': [85], 'CDE_metric': [1], 'NCC': [0], 'NCC_metric': [4], 'NCC_shrink_thre': [9.274673418716816], 'adpt': [2], 'clf': [9]} 0.7040043941491603
+time: 3600.1849825382233
+---------------------------
+{'GIS': [0], 'KNN': [0], 'KNNneighbors': [8], 'KNNp': [0], 'adpt': [1], 'chrmsize': [0.08486468567857472], 'clf': [1], 'mCount': [6], 'mProb': [0.09302620783946901], 'numgens': [6], 'numparts': [4], 'popsize': [4]} 0.7993632622042978
+time: 3600.1199250221252
+---------------------------
+{'EX_criterion': [1], 'EX_max_feature': [0.21644962769223286], 'EX_min_samples_leaf': [13], 'EX_min_samples_split': [22], 'EX_splitter': [0], 'EXtree': [0], 'PCAmining': [0], 'adpt': [11], 'clf': [10], 'pcaDim': [7]} 0.6009378950219707
+time: 3600.1216168403625
+---------------------------
+{'EXs': [0], 'EXs_criterion': [0], 'EXs_max_feature': [0.7894651402139381], 'EXs_min_samples_leaf': [5], 'EXs_min_samples_split': [2], 'EXs_n_estimator': [34], 'HISNN': [0], 'HISNN_minham': [7], 'adpt': [6], 'clf': [13]} 0.584909408294709
+time: 11362.3201649189
+---------------------------
+{'Ridge': [0], 'Ridge_alpha': [51.179532658292196], 'Ridge_fit_intercept': [1], 'Ridge_tol': [0.06122891222052546], 'UM': [0], 'adpt': [9], 'clf': [4], 'pvalue': [0.09559211978146322]} 0.5701370914344188
+time: 11892.241903305054
+---------------------------
+{'NCC': [0], 'NCC_metric': [3], 'NCC_shrink_thre': [7.503942038135422], 'TD': [0], 'TDparam': [1], 'adpt': [12], 'clf': [9]} 0.7020879732739422
+time: 13088.382252454758
+---------------------------
+{'HISNN': [0], 'HISNN_minham': [12], 'NCC': [0], 'NCC_metric': [1], 'NCC_shrink_thre': [5.311857278033962], 'adpt': [6], 'clf': [9]} 0.6967736110275087
+time: 3600.1127257347107
+---------------------------
+{'RNC': [0], 'RNC_weights': [0], 'TCAplus': [0], 'adpt': [10], 'clf': [8], 'dim': [6], 'gamma': [20.60859547880254], 'kernel_type': [0], 'lamb': [25.804792650098424], 'radius': [884.3017595785329]} 0
+time: 9956.875464439392
+---------------------------
+{'CDE_SMOTE': [0], 'CDE_k': [31], 'CDE_metric': [2], 'Ridge': [0], 'Ridge_alpha': [47.51757023097141], 'Ridge_fit_intercept': [0], 'Ridge_tol': [0.0025247613891513387], 'adpt': [2], 'clf': [4]} 0.749726118100283
+time: 10955.007016181946
+---------------------------
+{'NB': [0], 'NBparam': [0], 'UM': [0], 'adpt': [9], 'clf': [15], 'pvalue': [0.05706029996742788]} 0.6976539457051707
+time: 3600.1564614772797
+---------------------------
+{'CDE_SMOTE': [0], 'CDE_k': [57], 'CDE_metric': [0], 'EXs': [0], 'EXs_criterion': [1], 'EXs_max_feature': [0.27850355705559315], 'EXs_min_samples_leaf': [2], 'EXs_min_samples_split': [10], 'EXs_n_estimator': [71], 'adpt': [2], 'clf': [13]} 0.6899856287244928
+time: 3600.1108384132385
+---------------------------
+{'C': [1.2959441012450017], 'PCAmining': [0], 'SVCkernel': [2], 'SVM': [0], 'adpt': [11], 'clf': [14], 'pcaDim': [12], 'sigcoef0': [3.362709060970012], 'siggamma': [35.669076568364915]} 0.4858205923072293
+time: 3600.1232969760895
+---------------------------
+{'LR': [0], 'PCAmining': [0], 'adpt': [11], 'clf': [3], 'fit_intercept': [1], 'lrC': [4.8901599866854415], 'maxiter': [128], 'pcaDim': [13], 'penalty': [1]} 0.7520879732739421
+time: 10546.512543439865
+---------------------------
+{'DT': [0], 'DTcriterion': [0], 'DTmax_features': [0.509824359019583], 'DTmin_samples_leaf': [12], 'DTmin_samples_split': [23], 'DTsplitter': [0], 'GIS': [0], 'adpt': [1], 'chrmsize': [0.0646718215309435], 'clf': [2], 'mCount': [2], 'mProb': [0.08855457201035827], 'numgens': [13], 'numparts': [4], 'popsize': [14]} 0.687247374044423
+time: 3600.2084946632385
+---------------------------
+{'EXs': [0], 'EXs_criterion': [0], 'EXs_max_feature': [0.8733104053206817], 'EXs_min_samples_leaf': [9], 'EXs_min_samples_split': [29], 'EXs_n_estimator': [16], 'GIS': [0], 'adpt': [1], 'chrmsize': [0.08792469802624749], 'clf': [13], 'mCount': [2], 'mProb': [0.051491795925350664], 'numgens': [5], 'numparts': [2], 'popsize': [10]} 0.8795941055197736
+time: 3600.313026189804
+---------------------------
+[] 0
+time: 3600.1135869026184
+---------------------------
+{'CLIFE': [0], 'Clife_alpha': [0.0980896537447952], 'Clife_beta': [0.38951474991945456], 'Clife_n': [34], 'RF': [0], 'RFcriterion': [1], 'RFmax_features': [0.9899138791012729], 'RFmin_samples_leaf': [4], 'RFmin_samples_split': [6], 'RFn_estimators': [123], 'adpt': [3], 'clf': [0], 'percentage': [0.7253392160689253]} 0.6569768404261722
+time: 3600.10751581192
+---------------------------
+{'C': [8.981763243515044], 'NNfilter': [0], 'NNmetric': [5], 'NNn_neighbors': [25], 'SVCkernel': [3], 'SVM': [0], 'adpt': [0], 'clf': [14], 'rbfgamma': [73.57125202330121]} 0.5028409090909092
+time: 11874.785245418549
+---------------------------
+{'FSS_bagging': [0], 'FSS_ratio': [0.2370176771349426], 'FSS_score_thre': [0.5492500772530107], 'FSS_topn': [9], 'NCC': [0], 'NCC_metric': [0], 'NCC_shrink_thre': [0.7800529837532655], 'adpt': [5], 'clf': [9]} 0.6844647264190694
+time: 13145.450432300568
+---------------------------
+{'FeSCH': [0], 'Fesch_nt': [9], 'Fesch_strategy': [1], 'NCC': [0], 'NCC_metric': [1], 'NCC_shrink_thre': [5.696120146328292], 'adpt': [4], 'clf': [9]} 0.7385255522783362
+time: 3600.241312265396
+---------------------------
+{'HISNN': [0], 'HISNN_minham': [7], 'NCC': [0], 'NCC_metric': [1], 'NCC_shrink_thre': [5.191575850529143], 'adpt': [6], 'clf': [9]} 0.6950844218383194
+time: 10928.460389375687
+---------------------------
+{'LR': [0], 'UM': [0], 'adpt': [9], 'clf': [3], 'fit_intercept': [1], 'lrC': [0.7918444692225047], 'maxiter': [52], 'penalty': [1], 'pvalue': [0.04164196766557839]} 0.5840381026906638
+time: 3600.130095720291
+---------------------------
+{'NNfilter': [0], 'NNmetric': [5], 'NNn_neighbors': [1], 'PAC': [0], 'PAC_c': [47.95109718364152], 'PAC_fit_intercept': [0], 'PAC_loss': [1], 'PAC_tol': [0.021838086439671354], 'adpt': [0], 'clf': [5]} 0.5837609970674487
+time: 3600.18044424057
+---------------------------
+{'EX_criterion': [1], 'EX_max_feature': [0.5619152919959238], 'EX_min_samples_leaf': [13], 'EX_min_samples_split': [7], 'EX_splitter': [0], 'EXtree': [0], 'TCAplus': [0], 'adpt': [10], 'clf': [10], 'dim': [1], 'gamma': [82.11645622636203], 'kernel_type': [3], 'lamb': [86.05141203901391]} 0
+time: 10104.831591129303
+---------------------------
+{'GIS': [0], 'LR': [0], 'adpt': [1], 'chrmsize': [0.04748726286864639], 'clf': [3], 'fit_intercept': [1], 'lrC': [1.7828788084814047], 'mCount': [6], 'mProb': [0.03436706891004678], 'maxiter': [136], 'numgens': [0], 'numparts': [3], 'penalty': [0], 'popsize': [0]} 0.8328001790766267
+time: 3600.127989053726
+---------------------------
+{'NCC': [0], 'NCC_metric': [4], 'NCC_shrink_thre': [8.844189531877747], 'UM': [0], 'adpt': [9], 'clf': [9], 'pvalue': [0.09885440309950973]} 0.6493732318064167
+time: 12285.105023145676
+---------------------------
